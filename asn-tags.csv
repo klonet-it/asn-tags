@@ -33,9 +33,9 @@ AS2856,British Telecommunications PLC,airport
 AS12479,Orange Espagne SA,airport
 AS24889,Monzoon Networks AG,airport
 AS40808,Vancouver International Airport Authority,airport
-AS42517,Schiphol Telematics B.V.,airport
-AS4713,NTT Communications Corporation,airport
 AS3320,Deutsche Telekom AG,airport
+AS4713,NTT Communications Corporation,airport
+AS42517,Schiphol Telematics B.V.,airport
 AS55441,TTSL-ISP DIVISION,airport
 AS17858,LG POWERCOMM,airport
 AS395677,GTAA,airport
@@ -87,8 +87,8 @@ AS12479,Orange Espagne SA,bittorrent
 AS7418,TELEFÓNICA CHILE S.A.,bittorrent
 AS7303,Telecom Argentina S.A.,bittorrent
 AS8402,"PJSC ""Vimpelcom""",bittorrent
-AS12714,PJSC MegaFon,bittorrent
 AS9829,National Internet Backbone,bittorrent
+AS12714,PJSC MegaFon,bittorrent
 AS5617,Orange Polska Spolka Akcyjna,bittorrent
 AS3462,Data Communication Business Group,bittorrent
 AS5384,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC,bittorrent
@@ -150,8 +150,8 @@ AS8075,Microsoft Corporation,crawler
 AS13238,YANDEX LLC,crawler
 AS15169,Google LLC,crawler
 AS14618,"Amazon.com, Inc.",crawler
-AS714,Apple Inc.,crawler
 AS16276,OVH SAS,crawler
+AS714,Apple Inc.,crawler
 AS4134,CHINANET-BACKBONE,crawler
 AS136907,HUAWEI CLOUDS,crawler
 AS24940,Hetzner Online GmbH,crawler
@@ -164,48 +164,23 @@ AS51167,Contabo GmbH,crawler
 AS13335,"Cloudflare, Inc.",crawler
 AS7941,Internet Archive,crawler
 AS4766,Korea Telecom,crawler
-AS209366,SEMrush CY LTD,crawler
 AS51747,Internet Vikings International AB,crawler
+AS209366,SEMrush CY LTD,crawler
 AS47764,LLC VK,crawler
 AS23576,NAVER Cloud Corp.,crawler
 AS2607,Zdruzenie pouzivatelov Slovenskej akademickej datovej siete SANET,crawler
-AS56046,China Mobile communications corporation,crawler
-AS16509,"Amazon.com, Inc.",geodns
-AS13335,"Cloudflare, Inc.",geodns
-AS62597,NSONE Inc,geodns
-AS45102,"Alibaba (US) Technology Co., Ltd.",geodns
-AS16552,Tiggee LLC,geodns
-AS54994,Meteverse Limited.,geodns
-AS8075,Microsoft Corporation,geodns
-AS397849,ZOHO,geodns
-AS32934,"Facebook, Inc.",geodns
-AS203391,Cloud DNS Ltd,geodns
-AS134963,Alibaba Cloud (Singapore) Private Limited,geodns
-AS15169,Google LLC,geodns
-AS29522,Cyber_Folks S.A.,geodns
-AS199524,G-Core Labs S.A.,geodns
-AS14907,Wikimedia Foundation Inc.,geodns
-AS200325,"BUNNYWAY, informacijske storitve d.o.o.",geodns
-AS39572,DataWeb Global Group B.V.,geodns
-AS201589,"""EDGEAM"" LLC",geodns
-AS23393,NuCDN LLC,geodns
-AS198412,Rage4 Networks Limited,geodns
-AS59238,"Innovative Extremist Co., Ltd.",geodns
-AS9123,TimeWeb LLC,geodns
-AS131447,POPIDC powered by CSLoxinfo,geodns
-AS210756,EdgeCenter LLC,geodns
-AS397213,"Vercara, LLC",geodns
+AS23033,Wowrack.com,crawler
 AS16509,"Amazon.com, Inc.",hosting
 AS8075,Microsoft Corporation,hosting
 AS14618,"Amazon.com, Inc.",hosting
 AS13335,"Cloudflare, Inc.",hosting
-AS4713,NTT Communications Corporation,hosting
 AS8220,COLT Technology Services Group Limited,hosting
-AS23693,PT. Telekomunikasi Selular,hosting
-AS4134,CHINANET-BACKBONE,hosting
+AS4713,NTT Communications Corporation,hosting
 AS4837,CHINA UNICOM China169 Backbone,hosting
-AS56041,China Mobile communications corporation,hosting
+AS4134,CHINANET-BACKBONE,hosting
+AS23693,PT. Telekomunikasi Selular,hosting
 AS131074,APNIC R&D Centre JP,hosting
+AS56041,China Mobile communications corporation,hosting
 AS396982,Google LLC,hosting
 AS20940,Akamai International B.V.,hosting
 AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",hosting
