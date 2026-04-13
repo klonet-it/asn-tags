@@ -12,8 +12,8 @@ AS139341,ACE,anycast
 AS15169,Google LLC,anycast
 AS207266,Identity Digital Limited,anycast
 AS202492,SILVERHILL GROUP HOLDING LTD,anycast
-AS398787,"GoDaddy.com, LLC",anycast
 AS54994,Meteverse Limited.,anycast
+AS398787,"GoDaddy.com, LLC",anycast
 AS12008,"Vercara, LLC",anycast
 AS33905,Akamai International B.V.,anycast
 AS394089,Google LLC,anycast
@@ -21,7 +21,7 @@ AS21342,Akamai International B.V.,anycast
 AS400519,Developed Methods LLC,anycast
 AS19905,"Vercara, LLC",anycast
 AS57724,DDOS-GUARD LTD,anycast
-AS43247,"""YooMoney"" NBCO LLC",anycast
+AS43247,YooMoney NBCO LLC,anycast
 AS43519,Nominet UK,anycast
 AS51115,HLL LLC,anycast
 AS12389,PJSC Rostelecom,bittorrent
@@ -33,22 +33,22 @@ AS36947,Telecom Algeria,bittorrent
 AS8151,UNINET,bittorrent
 AS4837,CHINA UNICOM China169 Backbone,bittorrent
 AS7922,"Comcast Cable Communications, LLC",bittorrent
+AS16135,Turkcell A.S.,bittorrent
 AS36903,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,bittorrent
-AS12714,PJSC MegaFon,bittorrent
 AS28573,Claro NXT Telecomunicacoes Ltda,bittorrent
 AS8402,PJSC Vimpelcom,bittorrent
+AS12714,PJSC MegaFon,bittorrent
 AS8452,TE-AS,bittorrent
-AS16135,Turkcell A.S.,bittorrent
 AS5384,Emirates Internet,bittorrent
 AS22927,Telefonica de Argentina,bittorrent
 AS5483,Magyar Telekom Plc.,bittorrent
 AS3462,Data Communication Business Group,bittorrent
 AS12479,Orange Espagne SA,bittorrent
+AS5617,Orange Polska Spolka Akcyjna,bittorrent
 AS7303,Telecom Argentina S.A.,bittorrent
 AS2856,British Telecommunications PLC,bittorrent
-AS5617,Orange Polska Spolka Akcyjna,bittorrent
-AS9829,National Internet Backbone,bittorrent
 AS20978,TT Mobil Iletisim Hizmetleri A.S,bittorrent
+AS9829,National Internet Backbone,bittorrent
 AS396982,Google LLC,cdn
 AS16509,"Amazon.com, Inc.",cdn
 AS13335,"Cloudflare, Inc.",cdn
@@ -73,7 +73,7 @@ AS35280,F5 Networks SARL,cdn
 AS8560,IONOS SE,cdn
 AS31898,Oracle Corporation,cdn
 AS57724,DDOS-GUARD LTD,cdn
-AS40065,CNSERVERS LLC,cdn
+AS51115,HLL LLC,cdn
 AS16509,"Amazon.com, Inc.",cloud
 AS8075,Microsoft Corporation,cloud
 AS14618,"Amazon.com, Inc.",cloud
@@ -90,8 +90,8 @@ AS58593,"Shanghai Blue Cloud Technology Co.,Ltd",cloud
 AS8070,Microsoft Corporation,cloud
 AS55960,Beijing Guanghuan Xinwang Digital,cloud
 AS135629,Ningxia West Cloud Data Technology Co.Ltd.,cloud
-AS19527,Google LLC,cloud
 AS8069,Microsoft Corporation,cloud
+AS19527,Google LLC,cloud
 AS200350,Yandex.Cloud LLC,cloud
 AS24429,"Zhejiang Taobao Network Co.,Ltd",cloud
 AS6167,Verizon Business,cloud
@@ -99,8 +99,8 @@ AS3598,Microsoft Corporation,cloud
 AS801,Amazon Technologies Inc.,cloud
 AS20940,Akamai International B.V.,cloud
 AS36351,IBM Cloud,cloud
-AS16276,OVH SAS,crawler
 AS16509,"Amazon.com, Inc.",crawler
+AS16276,OVH SAS,crawler
 AS14618,"Amazon.com, Inc.",crawler
 AS714,Apple Inc.,crawler
 AS13238,YANDEX LLC,crawler
@@ -108,18 +108,18 @@ AS15169,Google LLC,crawler
 AS32934,"Facebook, Inc.",crawler
 AS4837,CHINA UNICOM China169 Backbone,crawler
 AS136907,HUAWEI CLOUDS,crawler
-AS396982,Google LLC,crawler
 AS24940,Hetzner Online GmbH,crawler
+AS396982,Google LLC,crawler
 AS4134,CHINANET-BACKBONE,crawler
 AS8075,Microsoft Corporation,crawler
-AS51747,Internet Vikings International AB,crawler
 AS140577,Ahrefs Pte Ltd,crawler
 AS45899,VNPT Corp,crawler
+AS51747,Internet Vikings International AB,crawler
 AS13335,"Cloudflare, Inc.",crawler
 AS210743,Babbar SAS,crawler
 AS36040,Google LLC,crawler
-AS4766,Korea Telecom,crawler
 AS7941,Internet Archive,crawler
+AS4766,Korea Telecom,crawler
 AS5089,Virgin Media Limited,crawler
 AS5410,Bouygues Telecom SA,crawler
 AS6805,Telefonica Germany GmbH & Co.OHG,crawler
@@ -130,24 +130,25 @@ AS13335,"Cloudflare, Inc.",geodns
 AS16552,Tiggee LLC,geodns
 AS134963,Alibaba Cloud (Singapore) Private Limited,geodns
 AS54994,Meteverse Limited.,geodns
-AS15169,Google LLC,geodns
-AS203391,Cloud DNS Ltd,geodns
 AS397849,ZOHO,geodns
-AS62597,NSONE Inc,geodns
+AS203391,Cloud DNS Ltd,geodns
+AS15169,Google LLC,geodns
 AS32934,"Facebook, Inc.",geodns
+AS62597,NSONE Inc,geodns
 AS29522,Cyber_Folks S.A.,geodns
 AS199524,G-Core Labs S.A.,geodns
 AS14907,Wikimedia Foundation Inc.,geodns
 AS200325,"BUNNYWAY, informacijske storitve d.o.o.",geodns
 AS398367,Lite Speed Technologies Inc.,geodns
 AS198412,RAGE4 NETWORKS POLSKA SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA,geodns
-AS59238,"Innovative Extremist Co., Ltd.",geodns
 AS12008,"Vercara, LLC",geodns
-AS201589,EDGEAM LLC,geodns
-AS396982,Google LLC,geodns
+AS59238,"Innovative Extremist Co., Ltd.",geodns
 AS210756,EdgeCenter LLC,geodns
-AS20473,"The Constant Company, LLC",geodns
+AS201589,EDGEAM LLC,geodns
+AS131447,POPIDC powered by CSLoxinfo,geodns
 AS9123,JSC TIMEWEB,geodns
+AS396982,Google LLC,geodns
+AS20473,"The Constant Company, LLC",geodns
 AS16509,"Amazon.com, Inc.",hosting
 AS8075,Microsoft Corporation,hosting
 AS14618,"Amazon.com, Inc.",hosting
@@ -159,20 +160,20 @@ AS45102,"Alibaba (US) Technology Co., Ltd.",hosting
 AS31898,Oracle Corporation,hosting
 AS16276,OVH SAS,hosting
 AS16625,"Akamai Technologies, Inc.",hosting
-AS17506,ARTERIA Networks Corporation,hosting
 AS36351,IBM Cloud,hosting
 AS14061,"DigitalOcean, LLC",hosting
 AS24940,Hetzner Online GmbH,hosting
-AS3741,Dimension Data,hosting
 AS15169,Google LLC,hosting
 AS132203,"Tencent Building, Kejizhongyi Avenue",hosting
 AS559,SWITCH,hosting
-AS10013,"FreeBit Co.,Ltd.",hosting
 AS1101,IP-EEND BV,hosting
-AS4755,TATA Communications formerly VSNL is Leading ISP,hosting
-AS51964,ORANGE BUSINESS SERVICES U.S. Inc.,hosting
-AS7385,"Allstream Business US, LLC",hosting
 AS55990,Huawei Cloud Service data center,hosting
+AS7385,"Allstream Business US, LLC",hosting
+AS6461,Zayo Bandwidth,hosting
+AS8987,Amazon Data Services Ireland Ltd,hosting
+AS13335,"Cloudflare, Inc.",hosting
+AS51964,ORANGE BUSINESS SERVICES U.S. Inc.,hosting
+AS9009,M247 Europe SRL,hosting
 AS5607,Sky UK Limited,hotspot
 AS7922,"Comcast Cable Communications, LLC",hotspot
 AS15557,Societe Francaise Du Radiotelephone - SFR SA,hotspot
@@ -198,31 +199,31 @@ AS852,TELUS Communications Inc.,hotspot
 AS28573,Claro NXT Telecomunicacoes Ltda,hotspot
 AS701,Verizon Business,hotspot
 AS6871,Plusnet,hotspot
-AS138195,MOACK.Co.LTD,ix
 AS197298,Multifunctional Telecommunications Systems LTD,ix
+AS138195,MOACK.Co.LTD,ix
 AS7713,PT Telekomunikasi Indonesia,ix
 AS9264,Academia Sinica,ix
-AS9808,"China Mobile Communications Group Co., Ltd.",ix
-AS44530,HOPUS SAS,ix
 AS21003,General Post and Telecommunication Company (GPTC),ix
+AS44530,HOPUS SAS,ix
+AS9808,"China Mobile Communications Group Co., Ltd.",ix
 AS62,CyrusOne LLC,ix
 AS13194,Bite IP Network,ix
 AS101,University of Washington,ix
 AS7629,EPLDT,ix
 AS52468,UFINET PANAMA S.A.,ix
-AS197961,Stowarzyszenie e-Poludnie,ix
-AS263212,NETWORK ACCESS POINT DEL CARIBE - DR,ix
 AS43268,Science Network Solution LLC,ix
+AS263212,NETWORK ACCESS POINT DEL CARIBE - DR,ix
+AS197961,Stowarzyszenie e-Poludnie,ix
 AS174,"Cogent Communications, LLC",ix
 AS4750,CS LOXINFO PUBLIC COMPANY LIMITED,ix
 AS10217,PT. NTT Indonesia,ix
-AS224,SIKT - KUNNSKAPSSEKTORENS TJENESTELEVERANDOR,ix
-AS4755,TATA Communications formerly VSNL is Leading ISP,ix
 AS32217,GPIEX INC,ix
+AS4755,TATA Communications formerly VSNL is Leading ISP,ix
+AS224,SIKT - KUNNSKAPSSEKTORENS TJENESTELEVERANDOR,ix
 AS29076,Citytelecom LLC,ix
-AS60931,LAN-Service Ltd.,ix
-AS271945,AZTECA TELECOM S.R.L.,ix
-AS4826,Vocus Connect International Backbone,ix
+AS4557,Rice University,ix
+AS211466,Ministry of Telecommunication & Digital Economy,ix
+AS24534,PT. Transhybrid Communication,ix
 AS16276,OVH SAS,mailserver
 AS12824,home.pl sp. z o.o.,mailserver
 AS31898,Oracle Corporation,mailserver
@@ -234,10 +235,10 @@ AS51167,Contabo GmbH,mailserver
 AS4713,"NTT DOCOMO BUSINESS,Inc.",mailserver
 AS14061,"DigitalOcean, LLC",mailserver
 AS8560,IONOS SE,mailserver
-AS63949,Akamai Connected Cloud,mailserver
 AS32244,"Liquid Web, L.L.C",mailserver
-AS16509,"Amazon.com, Inc.",mailserver
+AS63949,Akamai Connected Cloud,mailserver
 AS3320,Deutsche Telekom AG,mailserver
+AS16509,"Amazon.com, Inc.",mailserver
 AS4694,IDC Frontier Inc.,mailserver
 AS3462,Data Communication Business Group,mailserver
 AS19871,"Network Solutions, LLC",mailserver
@@ -245,9 +246,9 @@ AS7684,SAKURA Internet Inc.,mailserver
 AS6724,Strato GmbH,mailserver
 AS22611,"InMotion Hosting, Inc.",mailserver
 AS54641,"InMotion Hosting, Inc.",mailserver
+AS55293,"A2 Hosting, Inc.",mailserver
 AS22612,"Namecheap, Inc.",mailserver
 AS9371,SAKURA Internet Inc.,mailserver
-AS55293,"A2 Hosting, Inc.",mailserver
 AS4713,"NTT DOCOMO BUSINESS,Inc.",mobile
 AS7018,"AT&T Enterprises, LLC",mobile
 AS26599,TELEFÔNICA BRASIL S.A,mobile
@@ -255,24 +256,24 @@ AS26615,TIM S/A,mobile
 AS17676,SoftBank Corp.,mobile
 AS6167,Verizon Business,mobile
 AS2516,KDDI CORPORATION,mobile
-AS3215,Orange S.A.,mobile
 AS26611,COMUNICACIÓN CELULAR S.A. COMCEL S.A.,mobile
 AS6713,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,mobile
+AS3215,Orange S.A.,mobile
 AS37069,The Egyptian Company for Mobile Services (Mobinil),mobile
 AS36992,ETISALAT MISR,mobile
 AS20057,"AT&T Enterprises, LLC",mobile
-AS9824,"JCOM Co., Ltd.",mobile
 AS577,Bell Canada,mobile
+AS9824,"JCOM Co., Ltd.",mobile
 AS1221,Telstra Limited,mobile
-AS15557,Societe Francaise Du Radiotelephone - SFR SA,mobile
-AS2856,British Telecommunications PLC,mobile
 AS852,TELUS Communications Inc.,mobile
+AS2856,British Telecommunications PLC,mobile
+AS15557,Societe Francaise Du Radiotelephone - SFR SA,mobile
 AS197207,Mobile Communication Company of Iran PLC,mobile
-AS5410,Bouygues Telecom SA,mobile
-AS9644,SK Telecom,mobile
-AS18881,TELEFÔNICA BRASIL S.A,mobile
 AS35819,"Etihad Etisalat, a joint stock company",mobile
-AS12322,Free SAS,mobile
+AS9644,SK Telecom,mobile
+AS1257,Tele2 Sverige AB,mobile
+AS33771,Safaricom Limited,mobile
+AS45609,Bharti Airtel Ltd. AS for GPRS Service,mobile
 AS16276,OVH SAS,nameserver
 AS46606,Unified Layer,nameserver
 AS8560,IONOS SE,nameserver
@@ -290,8 +291,8 @@ AS3462,Data Communication Business Group,nameserver
 AS55293,"A2 Hosting, Inc.",nameserver
 AS20473,"The Constant Company, LLC",nameserver
 AS8075,Microsoft Corporation,nameserver
-AS36352,HostPapa,nameserver
 AS40092,HostPapa,nameserver
+AS36352,HostPapa,nameserver
 AS47583,Hostinger International Limited,nameserver
 AS33182,"HostDime.com, Inc.",nameserver
 AS197540,netcup GmbH,nameserver
@@ -310,19 +311,19 @@ AS16509,"Amazon.com, Inc.",portscan
 AS63949,Akamai Connected Cloud,portscan
 AS21859,Zenlayer Inc,portscan
 AS14987,Rethem Hosting LLC,portscan
-AS45102,"Alibaba (US) Technology Co., Ltd.",portscan
 AS398722,"Censys, Inc.",portscan
 AS211680,"NSEC - Sistemas Informaticos, S.A.",portscan
 AS6939,Hurricane Electric LLC,portscan
+AS25369,Hydra Communications Ltd,portscan
 AS9465,AGOTOZ PTE. LTD.,portscan
+AS45102,"Alibaba (US) Technology Co., Ltd.",portscan
 AS60223,Netiface,portscan
 AS47890,UNMANAGED LTD,portscan
+AS142002,Scloud Pte Ltd,portscan
 AS202425,IP Volume inc,portscan
-AS51396,Pfcloud UG,portscan
+AS16276,OVH SAS,portscan
 AS23724,"IDC, China Telecommunications Corporation",portscan
-AS202412,Omegatech LTD,portscan
 AS10439,"CariNet, Inc.",portscan
-AS4837,CHINA UNICOM China169 Backbone,portscan
 AS22616,"ZSCALER, INC.",proxy
 AS62044,Zscaler Switzerland GmbH,proxy
 AS53813,"ZSCALER, INC.",proxy
@@ -330,21 +331,21 @@ AS54994,Meteverse Limited.,proxy
 AS200373,3xK Tech GmbH,proxy
 AS16509,"Amazon.com, Inc.",proxy
 AS15169,Google LLC,proxy
-AS5650,"Frontier Communications of America, Inc.",proxy
 AS4134,CHINANET-BACKBONE,proxy
 AS13335,"Cloudflare, Inc.",proxy
+AS7029,Windstream Communications LLC,proxy
 AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",proxy
 AS142578,E-Large (HongKong),proxy
 AS4837,CHINA UNICOM China169 Backbone,proxy
 AS209242,"Cloudflare London, LLC",proxy
 AS45102,"Alibaba (US) Technology Co., Ltd.",proxy
 AS396982,Google LLC,proxy
+AS5650,"Frontier Communications of America, Inc.",proxy
 AS134963,Alibaba Cloud (Singapore) Private Limited,proxy
 AS45090,Shenzhen Tencent Computer Systems Company Limited,proxy
 AS4811,China Telecom (Group),proxy
 AS55990,Huawei Cloud Service data center,proxy
 AS9808,"China Mobile Communications Group Co., Ltd.",proxy
-AS7029,Windstream Communications LLC,proxy
 AS4766,Korea Telecom,proxy
 AS57363,CDNvideo LLC,proxy
 AS6079,RCN,proxy
@@ -369,64 +370,63 @@ AS152628,DBS Bank (Taiwan) Ltd,relay
 AS9327,Hopcount Limited,relay
 AS17557,Pakistan Telecommunication Company Limited,resolver
 AS13335,"Cloudflare, Inc.",resolver
-AS21342,Akamai International B.V.,resolver
 AS273090,"HOLANET, C.A.",resolver
+AS21342,Akamai International B.V.,resolver
 AS14061,"DigitalOcean, LLC",resolver
 AS7922,"Comcast Cable Communications, LLC",resolver
 AS20473,"The Constant Company, LLC",resolver
-AS34939,"nextdns, Inc.",resolver
 AS205157,Daniel Cid,resolver
+AS34939,"nextdns, Inc.",resolver
 AS16276,OVH SAS,resolver
+AS23393,NuCDN LLC,resolver
 AS272030,SMARTNET S.R.L.,resolver
-AS269978,IPARED S.A.S.,resolver
+AS263230,COOPERATIVAS DE CALAMUCHITA - CONSORCIO DE COOPERACIÓN,resolver
 AS398962,CONTROLD INC.,resolver
+AS265041,INFOTEL ENGENHARIA & TELECOMUNICACOES SCM LTDA,resolver
+AS134990,CiTYCOM Network,resolver
+AS269978,IPARED S.A.S.,resolver
 AS58689,ICC Communication,resolver
 AS132295,Jahid Communication,resolver
-AS136141,Mohammad Kamrul Hasan t/a SK Traders,resolver
-AS263230,COOPERATIVAS DE CALAMUCHITA - CONSORCIO DE COOPERACIÓN,resolver
 AS31898,Oracle Corporation,resolver
-AS265041,INFOTEL ENGENHARIA & TELECOMUNICACOES SCM LTDA,resolver
-AS16509,"Amazon.com, Inc.",resolver
+AS4766,Korea Telecom,resolver
 AS58495,PT Parsaoran Global Datatrans,resolver
-AS18403,FPT Telecom Company,resolver
-AS134990,CiTYCOM Network,resolver
+AS16509,"Amazon.com, Inc.",resolver
+AS136141,Mohammad Kamrul Hasan t/a SK Traders,resolver
 AS135341,Orange Communication,resolver
-AS134651,PT Yetoya Solusi Indonesia,resolver
 AS7922,"Comcast Cable Communications, LLC",router
 AS4134,CHINANET-BACKBONE,router
 AS7018,"AT&T Enterprises, LLC",router
-AS10796,Charter Communications Inc,router
 AS20115,Charter Communications LLC,router
 AS3269,Telecom Italia S.p.A.,router
 AS7713,PT Telekomunikasi Indonesia,router
 AS9498,BHARTI Airtel Ltd.,router
 AS4837,CHINA UNICOM China169 Backbone,router
+AS10796,Charter Communications Inc,router
 AS6128,Cablevision Systems Corp.,router
 AS4812,China Telecom (Group),router
 AS13335,"Cloudflare, Inc.",router
 AS11427,Charter Communications Inc,router
 AS3356,"Level 3 Parent, LLC",router
-AS2856,British Telecommunications PLC,router
 AS4766,Korea Telecom,router
+AS2856,British Telecommunications PLC,router
 AS33363,"Charter Communications, Inc",router
 AS20001,Charter Communications Inc,router
 AS9808,"China Mobile Communications Group Co., Ltd.",router
 AS4230,CLARO S.A.,router
 AS31655,Gamma Telecom Holdings Ltd,router
 AS5617,Orange Polska Spolka Akcyjna,router
+AS5089,Virgin Media Limited,router
 AS209,"CenturyLink Communications, LLC",router
 AS8447,A1 Telekom Austria AG,router
-AS11426,Charter Communications Inc,router
 AS14593,Space Exploration Technologies Corporation,satellite
 AS7155,"ViaSat,Inc.",satellite
-AS24033,Australian Private Networks Pty Ltd,satellite
 AS29286,SKYLOGIC S.P.A.,satellite
+AS24033,Australian Private Networks Pty Ltd,satellite
 AS12684,SES ASTRA S.A.,satellite
 AS7477,SkyMesh Pty Ltd,satellite
-AS45700,PT. NAP Info Lintas Nusa,satellite
 AS212465,Comcast International Holdings UK Limited,satellite
+AS45700,PT. NAP Info Lintas Nusa,satellite
 AS6621,"Hughes Network Systems, LLC",satellite
-AS22351,INTELSAT GLOBAL SERVICE CORPORATION,satellite
 AS25222,Inmarsat Solutions B.V.,satellite
 AS43905,SPACE NORWAY SATCOM AS,satellite
 AS265705,HUGHES DE COLOMBIA S.A.S.,satellite
@@ -436,18 +436,21 @@ AS29259,IABG Teleport GmbH,satellite
 AS41697,Hellas Sat Consortium Ltd,satellite
 AS27855,AXESAT S.A,satellite
 AS29304,JSC SATIS-TL-94,satellite
-AS53910,Northwestel Inc.,satellite
 AS41810,Electronic Resources Company Ltd,satellite
-AS203101,Navarino Single Member S.A.,satellite
+AS53910,Northwestel Inc.,satellite
 AS4913,"Speedcast Communications, Inc",satellite
+AS203101,Navarino Single Member S.A.,satellite
+AS204649,Sure South Atlantic Limited,satellite
 AS36426,"IsoTropic Networks, Inc.",satellite
-AS32806,MTNSAT Holdings LLC,satellite
+AS205020,DataGrid Network GmbH,satellite
 AS16509,"Amazon.com, Inc.",ssh
 AS396982,Google LLC,ssh
 AS14061,"DigitalOcean, LLC",ssh
+AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",ssh
 AS14618,"Amazon.com, Inc.",ssh
 AS31898,Oracle Corporation,ssh
 AS16276,OVH SAS,ssh
+AS45090,Shenzhen Tencent Computer Systems Company Limited,ssh
 AS45102,"Alibaba (US) Technology Co., Ltd.",ssh
 AS20473,"The Constant Company, LLC",ssh
 AS63949,Akamai Connected Cloud,ssh
@@ -456,22 +459,20 @@ AS132203,"Tencent Building, Kejizhongyi Avenue",ssh
 AS8560,IONOS SE,ssh
 AS51167,Contabo GmbH,ssh
 AS36352,HostPapa,ssh
-AS174,"Cogent Communications, LLC",ssh
-AS87,Indiana University,ssh
+AS4134,CHINANET-BACKBONE,ssh
+AS55990,Huawei Cloud Service data center,ssh
 AS4766,Korea Telecom,ssh
-AS2914,"NTT America, Inc.",ssh
+AS174,"Cogent Communications, LLC",ssh
 AS26496,"GoDaddy.com, LLC",ssh
 AS9123,JSC TIMEWEB,ssh
 AS9488,Seoul National University,ssh
-AS47583,Hostinger International Limited,ssh
-AS197540,netcup GmbH,ssh
-AS12876,Scaleway SAS,ssh
-AS62904,Eonix Corporation,ssh
+AS2914,"NTT America, Inc.",ssh
+AS87,Indiana University,ssh
 AS22927,Telefonica de Argentina,tor
 AS60729,Stiftung Erneuerbare Freiheit,tor
 AS401401,Unredacted Inc,tor
-AS210558,1337 Services GmbH,tor
 AS53667,FranTech Solutions,tor
+AS210558,1337 Services GmbH,tor
 AS215125,Church of Cyberology,tor
 AS396507,Emerald Onion,tor
 AS62744,Quintex Alliance Consulting,tor
@@ -480,24 +481,24 @@ AS60404,The Infrastructure Group B.V.,tor
 AS8151,UNINET,tor
 AS701,Verizon Business,tor
 AS6167,Verizon Business,tor
-AS51396,Pfcloud UG,tor
 AS215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,tor
+AS51396,Pfcloud UG,tor
 AS5650,"Frontier Communications of America, Inc.",tor
-AS22773,Cox Communications Inc.,tor
 AS27747,Telecentro S.A.,tor
+AS22773,Cox Communications Inc.,tor
 AS14061,"DigitalOcean, LLC",tor
 AS63949,Akamai Connected Cloud,tor
 AS200651,FlokiNET ehf,tor
 AS197540,netcup GmbH,tor
 AS16276,OVH SAS,tor
-AS20001,Charter Communications Inc,tor
 AS7418,TELEFÓNICA CHILE S.A.,tor
+AS20001,Charter Communications Inc,tor
 AS212238,Datacamp Limited,vpn
 AS136787,PacketHub S.A.,vpn
 AS62240,Clouvider,vpn
 AS9009,M247 Europe SRL,vpn
-AS147049,PacketHub S.A.,vpn
 AS22363,"Powerhouse Management, Inc.",vpn
+AS147049,PacketHub S.A.,vpn
 AS25369,Hydra Communications Ltd,vpn
 AS207137,PacketHub S.A.,vpn
 AS62651,"Strong Technology, LLC.",vpn
@@ -508,13 +509,13 @@ AS40861,Paradise Networks LLC,vpn
 AS208172,Proton AG,vpn
 AS60068,Datacamp Limited,vpn
 AS4766,Korea Telecom,vpn
-AS14061,"DigitalOcean, LLC",vpn
 AS396356,Latitude.sh,vpn
-AS20473,"The Constant Company, LLC",vpn
+AS14061,"DigitalOcean, LLC",vpn
 AS42708,Glesys AB,vpn
+AS20473,"The Constant Company, LLC",vpn
 AS21859,Zenlayer Inc,vpn
-AS131199,"Nexeon Technologies, Inc.",vpn
 AS262287,Latitude.sh LTDA,vpn
+AS131199,"Nexeon Technologies, Inc.",vpn
 AS11878,"tzulo, inc.",vpn
 AS140952,"Strong Technology, LLC",vpn
 AS16509,"Amazon.com, Inc.",webserver
@@ -522,23 +523,23 @@ AS16625,"Akamai Technologies, Inc.",webserver
 AS14618,"Amazon.com, Inc.",webserver
 AS396982,Google LLC,webserver
 AS8075,Microsoft Corporation,webserver
-AS668,United States Department of Defense (DoD),webserver
 AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",webserver
 AS14061,"DigitalOcean, LLC",webserver
 AS16276,OVH SAS,webserver
 AS4766,Korea Telecom,webserver
 AS13335,"Cloudflare, Inc.",webserver
 AS47583,Hostinger International Limited,webserver
-AS31898,Oracle Corporation,webserver
 AS45090,Shenzhen Tencent Computer Systems Company Limited,webserver
-AS3320,Deutsche Telekom AG,webserver
+AS31898,Oracle Corporation,webserver
 AS45102,"Alibaba (US) Technology Co., Ltd.",webserver
 AS3462,Data Communication Business Group,webserver
+AS3320,Deutsche Telekom AG,webserver
 AS20940,Akamai International B.V.,webserver
-AS134548,DXTL Tseung Kwan O Service,webserver
 AS7922,"Comcast Cable Communications, LLC",webserver
+AS134548,DXTL Tseung Kwan O Service,webserver
+AS132839,POWER LINE DATACENTER,webserver
 AS63949,Akamai Connected Cloud,webserver
 AS20473,"The Constant Company, LLC",webserver
-AS132839,POWER LINE DATACENTER,webserver
 AS8560,IONOS SE,webserver
 AS36352,HostPapa,webserver
+AS24940,Hetzner Online GmbH,webserver
