@@ -1,542 +1,540 @@
 ASN,NAME,type,EXAMPLE IP ADDRESS
-AS396982,Google LLC,anycast,35.244.196.22
-AS13335,"Cloudflare, Inc.",anycast,172.65.53.131
-AS16509,"Amazon.com, Inc.",anycast,75.2.71.108
-AS54113,"Fastly, Inc.",anycast,199.232.227.8
-AS19551,Incapsula Inc,anycast,107.154.151.117
-AS209242,"Cloudflare London, LLC",anycast,25.129.199.56
-AS40509,"Fly.io, Inc.",anycast,149.248.203.73
-AS15967,Nazwa.pl Sp.z.o.o.,anycast,77.55.95.105
-AS139341,ACE,anycast,43.174.201.62
-AS15169,Google LLC,anycast,72.14.192.151
-AS54994,Meteverse Limited.,anycast,153.43.126.163
-AS202492,SILVERHILL GROUP HOLDING LTD,anycast,83.147.238.202
-AS207266,Identity Digital Limited,anycast,65.22.115.220
-AS398787,"GoDaddy.com, LLC",anycast,50.62.199.114
-AS12008,"Vercara, LLC",anycast,156.154.173.160
-AS33905,Akamai International B.V.,anycast,104.96.176.244
-AS394089,Google LLC,anycast,144.125.162.30
-AS21342,Akamai International B.V.,anycast,173.223.99.53
-AS400519,Developed Methods LLC,anycast,69.9.187.85
-AS57724,DDOS-GUARD LTD,anycast,95.129.236.169
-AS43247,"""YooMoney"" NBCO LLC",anycast,109.235.164.132
-AS35280,F5 Networks SARL,anycast,159.60.64.16
-AS43519,Nominet UK,anycast,43.230.48.184
-AS51115,HLL LLC,anycast,178.248.233.97
-AS45102,"Alibaba (US) Technology Co., Ltd.",anycast,139.95.12.221
-AS12389,PJSC Rostelecom,bittorrent,91.122.114.135
-AS4134,CHINANET BACKBONE,bittorrent,115.223.173.110
-AS4766,Korea Telecom,bittorrent,14.80.172.48
-AS45609,Bharti Airtel Ltd. AS for GPRS Service,bittorrent,223.227.18.236
-AS9121,Turk Telekomunikasyon Anonim Sirketi,bittorrent,78.190.165.73
-AS8151,Uninet S.A. de C.V.,bittorrent,187.140.120.91
-AS4837,CHINA UNICOM China169 Backbone,bittorrent,116.136.228.84
-AS36947,Telecom Algeria,bittorrent,105.105.47.16
-AS7922,"Comcast Cable Communications, LLC",bittorrent,73.228.237.193
-AS8402,PJSC Vimpelcom,bittorrent,95.25.99.132
-AS28573,Claro NXT Telecomunicacoes Ltda,bittorrent,187.180.191.145
-AS5483,Magyar Telekom Plc.,bittorrent,84.3.192.178
-AS16135,Turkcell A.S.,bittorrent,178.247.130.6
-AS12714,PJSC MegaFon,bittorrent,95.220.144.77
-AS2856,British Telecommunications Limited,bittorrent,86.159.18.177
-AS5384,Emirates Internet,bittorrent,94.57.130.255
-AS5617,Orange Polska Spolka Akcyjna,bittorrent,83.9.201.120
-AS22927,Telefonica de Argentina,bittorrent,186.129.113.121
-AS3462,Data Communication Business Group,bittorrent,114.41.8.124
-AS36903,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,bittorrent,196.77.26.121
-AS20978,TT Mobil Iletisim Hizmetleri A.S,bittorrent,5.46.133.81
-AS5089,Virgin Media Limited,bittorrent,82.32.182.65
-AS12479,Orange Espagne SA,bittorrent,37.14.222.207
-AS7303,Telecom Argentina S.A.,bittorrent,200.82.94.32
-AS20845,DIGI Tavkozlesi es Szolgaltato Kft.,bittorrent,87.97.31.25
-AS396982,Google LLC,cdn,34.43.214.0
-AS16509,"Amazon.com, Inc.",cdn,15.197.144.0
-AS13335,"Cloudflare, Inc.",cdn,104.24.5.0
-AS19551,Incapsula Inc,cdn,107.154.242.0
-AS16625,"Akamai Technologies, Inc.",cdn,104.68.119.0
-AS54113,"Fastly, Inc.",cdn,167.82.30.0
-AS15169,Google LLC,cdn,142.251.163.0
-AS54994,Meteverse Limited.,cdn,153.43.42.0
-AS139341,ACE,cdn,43.175.87.0
-AS209242,"Cloudflare London, LLC",cdn,45.85.118.0
-AS4837,CHINA UNICOM China169 Backbone,cdn,61.241.148.0
-AS40509,"Fly.io, Inc.",cdn,168.220.94.0
-AS14618,"Amazon.com, Inc.",cdn,54.237.57.0
-AS24429,"Zhejiang Taobao Network Co.,Ltd",cdn,43.109.39.0
-AS15967,Nazwa.pl Sp.z.o.o.,cdn,85.128.251.0
-AS60068,Datacamp Limited,cdn,37.19.207.0
-AS8075,Microsoft Corporation,cdn,52.101.157.0
-AS4134,CHINANET BACKBONE,cdn,36.104.156.0
-AS21859,Zenlayer Inc,cdn,156.59.60.0
-AS31898,Oracle Corporation,cdn,130.35.103.0
-AS202492,SILVERHILL GROUP HOLDING LTD,cdn,83.147.206.0
-AS16276,OVH SAS,cdn,151.80.90.0
-AS24940,Hetzner Online GmbH,cdn,195.201.128.0
-AS398787,"GoDaddy.com, LLC",cdn,45.40.149.0
-AS47583,Hostinger International Limited,cdn,2.57.91.0
-AS16509,"Amazon.com, Inc.",cloud,45.33.171.0
-AS8075,Microsoft Corporation,cloud,23.103.182.0
-AS14618,"Amazon.com, Inc.",cloud,18.96.3.0
-AS396982,Google LLC,cloud,35.220.44.0
-AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",cloud,47.114.0.0
-AS45102,"Alibaba (US) Technology Co., Ltd.",cloud,47.57.136.0
-AS14061,"DigitalOcean, LLC",cloud,128.199.0.0
-AS63949,Akamai Connected Cloud,cloud,143.42.26.0
-AS8987,Amazon Technologies Inc.,cloud,52.119.208.0
-AS20473,"The Constant Company, LLC",cloud,108.61.231.0
-AS58593,"Shanghai Blue Cloud Technology Co.,Ltd",cloud,159.27.133.24
-AS8070,Microsoft Corporation,cloud,20.35.244.96
-AS43515,Google Ireland Limited,cloud,34.113.0.0
-AS55960,Beijing Guanghuan Xinwang Digital,cloud,43.196.0.0
-AS15169,Google LLC,cloud,34.1.48.0
-AS135629,Ningxia West Cloud Data Technology Co.Ltd.,cloud,52.83.0.0
-AS8069,Microsoft Corporation,cloud,20.33.25.0
-AS19527,Google LLC,cloud,34.1.208.0
-AS200350,Yandex.Cloud LLC,cloud,46.21.244.0
-AS24429,"Zhejiang Taobao Network Co.,Ltd",cloud,163.181.36.0
-AS6167,Verizon Business,cloud,155.146.144.0
-AS20940,Akamai International B.V.,cloud,104.67.50.0
-AS3598,Microsoft Corporation,cloud,167.220.204.112
-AS59067,"Microsoft Mobile Alliance Internet Services Co., Ltd",cloud,111.221.28.0
-AS210656,Yandex.Cloud LLC,cloud,185.184.128.0
-AS714,Apple Inc.,crawler,17.246.15.135
-AS16276,OVH SAS,crawler,54.39.203.105
-AS16509,"Amazon.com, Inc.",crawler,47.128.63.137
-AS14618,"Amazon.com, Inc.",crawler,68.67.112.185
-AS32934,"Facebook, Inc.",crawler,173.252.70.23
-AS15169,Google LLC,crawler,66.249.77.192
-AS8075,Microsoft Corporation,crawler,74.7.175.151
-AS4837,CHINA UNICOM China169 Backbone,crawler,110.249.201.70
-AS13238,YANDEX LLC,crawler,95.108.213.226
-AS24940,Hetzner Online GmbH,crawler,144.76.22.4
-AS396982,Google LLC,crawler,34.86.177.154
-AS4134,CHINANET BACKBONE,crawler,111.225.149.176
-AS210743,Babbar SAS,crawler,217.113.196.29
-AS51747,Internet Vikings International AB,crawler,192.71.18.162
-AS140577,Ahrefs Pte Ltd,crawler,168.100.149.239
-AS45899,VNPT Corp,crawler,103.131.71.207
-AS13335,"Cloudflare, Inc.",crawler,104.22.100.29
-AS28573,Claro NXT Telecomunicacoes Ltda,crawler,187.2.170.31
-AS8151,Uninet S.A. de C.V.,crawler,187.222.153.79
-AS136907,HUAWEI CLOUDS,crawler,114.119.139.88
-AS55836,Reliance Jio Infocomm Limited,crawler,49.37.35.102
-AS9299,Philippine Long Distance Telephone Company,crawler,122.3.104.151
-AS24560,"Bharti Airtel Ltd., Telemedia Services",crawler,171.61.171.220
-AS17639,Converge ICT Solutions Inc.,crawler,113.19.183.249
-AS36040,Google LLC,crawler,136.22.148.12
-AS16509,"Amazon.com, Inc.",geodns,205.251.194.82
-AS13335,"Cloudflare, Inc.",geodns,172.64.52.58
-AS45102,"Alibaba (US) Technology Co., Ltd.",geodns,47.253.24.28
-AS54994,Meteverse Limited.,geodns,66.114.55.22
-AS62597,IBM,geodns,198.51.45.8
-AS134963,Alibaba Cloud (Singapore) Private Limited,geodns,8.212.93.8
+AS396982,Google LLC,anycast,34.111.229.157
+AS13335,"Cloudflare, Inc.",anycast,193.135.44.213
+AS16509,"Amazon.com, Inc.",anycast,13.248.186.162
+AS54113,"Fastly, Inc.",anycast,151.101.57.192
+AS19551,Incapsula Inc,anycast,192.230.96.14
+AS209242,"Cloudflare London, LLC",anycast,45.8.211.179
+AS40509,"Fly.io, Inc.",anycast,169.155.58.254
+AS15967,Nazwa.pl Sp.z.o.o.,anycast,77.55.153.97
+AS139341,ACE,anycast,43.169.163.24
+AS54994,Meteverse Limited.,anycast,153.43.28.165
+AS15169,Google LLC,anycast,173.194.254.167
+AS202492,SILVERHILL GROUP HOLDING LTD,anycast,178.253.0.136
+AS207266,Identity Digital Limited,anycast,65.22.135.73
+AS398787,"GoDaddy.com, LLC",anycast,104.238.69.7
+AS12008,"Vercara, LLC",anycast,156.154.69.108
+AS33905,Akamai International B.V.,anycast,104.94.220.174
+AS394089,Google LLC,anycast,140.209.252.51
+AS21342,Akamai International B.V.,anycast,23.56.160.204
+AS400519,Developed Methods LLC,anycast,209.25.141.187
+AS57724,DDOS-GUARD LTD,anycast,176.57.64.14
+AS8075,Microsoft Corporation,anycast,4.150.244.10
+AS43247,"""YooMoney"" NBCO LLC",anycast,77.75.153.76
+AS35280,F5 Networks SARL,anycast,159.60.151.199
+AS43519,Nominet UK,anycast,213.248.222.116
+AS51115,HLL LLC,anycast,185.65.148.188
+AS12389,PJSC Rostelecom,bittorrent,2.61.139.160
+AS4134,CHINANET BACKBONE,bittorrent,113.25.160.149
+AS4766,Korea Telecom,bittorrent,121.182.252.221
+AS45609,Bharti Airtel Ltd. AS for GPRS Service,bittorrent,27.60.19.65
+AS9121,Turk Telekomunikasyon Anonim Sirketi,bittorrent,88.241.43.110
+AS8151,Uninet S.A. de C.V.,bittorrent,189.232.174.115
+AS4837,CHINA UNICOM China169 Backbone,bittorrent,36.248.232.42
+AS36947,Telecom Algeria,bittorrent,154.250.42.55
+AS8402,"PJSC ""Vimpelcom""",bittorrent,95.27.66.26
+AS5483,Magyar Telekom Plc.,bittorrent,86.59.205.222
+AS7922,"Comcast Cable Communications, LLC",bittorrent,73.155.148.221
+AS28573,Claro NXT Telecomunicacoes Ltda,bittorrent,177.181.221.28
+AS12714,PJSC MegaFon,bittorrent,213.88.36.58
+AS2856,British Telecommunications Limited,bittorrent,86.164.183.210
+AS5617,Orange Polska Spolka Akcyjna,bittorrent,83.27.94.128
+AS16135,Turkcell A.S.,bittorrent,178.247.152.204
+AS5384,Emirates Internet,bittorrent,31.215.191.210
+AS22927,Telefonica de Argentina,bittorrent,186.60.71.28
+AS3462,Data Communication Business Group,bittorrent,36.234.15.76
+AS36903,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,bittorrent,196.70.82.35
+AS5089,Virgin Media Limited,bittorrent,92.234.185.126
+AS12479,Orange Espagne SA,bittorrent,213.147.141.123
+AS20978,TT Mobil Iletisim Hizmetleri A.S,bittorrent,151.135.169.16
+AS20845,DIGI Tavkozlesi es Szolgaltato Kft.,bittorrent,92.52.245.74
+AS7303,Telecom Argentina S.A.,bittorrent,181.92.78.6
+AS396982,Google LLC,cdn,35.244.192.0
+AS16509,"Amazon.com, Inc.",cdn,65.9.130.0
+AS13335,"Cloudflare, Inc.",cdn,104.27.200.0
+AS19551,Incapsula Inc,cdn,107.154.200.0
+AS16625,"Akamai Technologies, Inc.",cdn,23.39.22.0
+AS54113,"Fastly, Inc.",cdn,162.219.225.0
+AS15169,Google LLC,cdn,172.253.130.0
+AS54994,Meteverse Limited.,cdn,14.0.125.0
+AS139341,ACE,cdn,43.175.246.0
+AS209242,"Cloudflare London, LLC",cdn,185.170.166.0
+AS4837,CHINA UNICOM China169 Backbone,cdn,218.61.165.0
+AS40509,"Fly.io, Inc.",cdn,213.188.197.0
+AS14618,"Amazon.com, Inc.",cdn,54.161.175.0
+AS24429,"Zhejiang Taobao Network Co.,Ltd",cdn,155.102.56.0
+AS15967,Nazwa.pl Sp.z.o.o.,cdn,85.128.253.0
+AS60068,Datacamp Limited,cdn,143.244.45.0
+AS8075,Microsoft Corporation,cdn,4.158.108.0
+AS4134,CHINANET BACKBONE,cdn,58.221.30.0
+AS21859,Zenlayer Inc,cdn,23.90.186.0
+AS202492,SILVERHILL GROUP HOLDING LTD,cdn,178.253.4.0
+AS31898,Oracle Corporation,cdn,173.254.30.0
+AS16276,OVH SAS,cdn,5.196.193.0
+AS24940,Hetzner Online GmbH,cdn,95.216.163.0
+AS398787,"GoDaddy.com, LLC",cdn,198.71.232.0
+AS47583,Hostinger International Limited,cdn,91.108.100.0
+AS16509,"Amazon.com, Inc.",cloud,52.93.126.147
+AS8075,Microsoft Corporation,cloud,206.191.248.96
+AS14618,"Amazon.com, Inc.",cloud,54.226.0.0
+AS396982,Google LLC,cloud,34.124.56.0
+AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",cloud,114.215.128.0
+AS45102,"Alibaba (US) Technology Co., Ltd.",cloud,139.95.136.0
+AS14061,"DigitalOcean, LLC",cloud,178.128.140.0
+AS63949,Akamai Connected Cloud,cloud,45.33.15.0
+AS8987,Amazon Technologies Inc.,cloud,108.175.60.0
+AS20473,"The Constant Company, LLC",cloud,173.199.116.0
+AS58593,"Shanghai Blue Cloud Technology Co.,Ltd",cloud,42.159.37.0
+AS8070,Microsoft Corporation,cloud,20.35.217.192
+AS15169,Google LLC,cloud,35.210.0.0
+AS55960,Beijing Guanghuan Xinwang Digital,cloud,71.132.0.0
+AS43515,Google Ireland Limited,cloud,35.208.0.0
+AS135629,Ningxia West Cloud Data Technology Co.Ltd.,cloud,52.82.180.0
+AS8069,Microsoft Corporation,cloud,20.33.233.0
+AS19527,Google LLC,cloud,35.215.0.0
+AS200350,Yandex.Cloud LLC,cloud,111.88.144.0
+AS24429,"Zhejiang Taobao Network Co.,Ltd",cloud,43.109.148.0
+AS6167,Verizon Business,cloud,161.188.16.0
+AS20940,Akamai International B.V.,cloud,104.67.62.0
+AS3598,Microsoft Corporation,cloud,194.69.100.0
+AS23724,"IDC, China Telecommunications Corporation",cloud,54.222.89.0
+AS59067,"Microsoft Mobile Alliance Internet Services Co., Ltd",cloud,103.36.96.0
+AS714,Apple Inc.,crawler,17.241.75.40
+AS16276,OVH SAS,crawler,51.222.168.173
+AS14618,"Amazon.com, Inc.",crawler,54.174.58.245
+AS16509,"Amazon.com, Inc.",crawler,47.128.122.27
+AS32934,"Facebook, Inc.",crawler,57.141.4.29
+AS8075,Microsoft Corporation,crawler,74.7.244.49
+AS15169,Google LLC,crawler,192.178.7.41
+AS13238,YANDEX LLC,crawler,95.108.213.232
+AS24940,Hetzner Online GmbH,crawler,167.233.122.227
+AS4837,CHINA UNICOM China169 Backbone,crawler,110.249.202.93
+AS396982,Google LLC,crawler,34.83.228.73
+AS4134,CHINANET BACKBONE,crawler,111.225.149.20
+AS51747,Internet Vikings International AB,crawler,5.133.214.75
+AS210743,BABBAR SAS,crawler,217.113.194.104
+AS140577,Ahrefs Pte Ltd,crawler,168.100.149.157
+AS23724,"IDC, China Telecommunications Corporation",crawler,122.14.225.55
+AS45899,VNPT Corp,crawler,103.131.71.67
+AS13335,"Cloudflare, Inc.",crawler,104.23.251.153
+AS8151,Uninet S.A. de C.V.,crawler,201.110.100.235
+AS136907,HUAWEI CLOUDS,crawler,114.119.138.74
+AS28573,Claro NXT Telecomunicacoes Ltda,crawler,191.189.17.115
+AS17072,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",crawler,187.188.241.209
+AS10753,"Level 3 Parent, LLC",crawler,175.110.74.139
+AS36040,Google LLC,crawler,136.22.148.7
+AS55836,Reliance Jio Infocomm Limited,crawler,49.36.59.93
+AS16509,"Amazon.com, Inc.",geodns,205.251.196.105
+AS13335,"Cloudflare, Inc.",geodns,172.64.52.46
+AS62597,IBM,geodns,198.51.44.8
+AS54994,Meteverse Limited.,geodns,157.185.179.97
+AS45102,"Alibaba (US) Technology Co., Ltd.",geodns,170.33.80.10
 AS16552,Tiggee LLC,geodns,46.31.237.1
-AS136907,HUAWEI CLOUDS,geodns,159.138.112.111
-AS32934,"Facebook, Inc.",geodns,129.134.31.12
-AS15169,Google LLC,geodns,216.239.38.10
-AS203391,Cloud DNS Ltd,geodns,185.136.99.183
-AS397849,ZOHO,geodns,169.148.152.99
-AS29522,Cyber_Folks S.A.,geodns,94.152.254.161
+AS136907,HUAWEI CLOUDS,geodns,190.92.196.2
+AS15169,Google LLC,geodns,216.239.34.10
+AS32934,"Facebook, Inc.",geodns,129.134.30.12
+AS397849,ZOHO,geodns,169.148.151.88
+AS14907,Wikimedia Foundation Inc.,geodns,208.80.153.231
+AS29522,Cyber_Folks S.A.,geodns,94.152.255.111
 AS200325,"BUNNYWAY, informacijske storitve d.o.o.",geodns,91.200.176.1
-AS14907,Wikimedia Foundation Inc.,geodns,198.35.27.27
-AS199524,G-Core Labs S.A.,geodns,92.223.77.101
-AS59238,"Innovative Extremist Co., Ltd.",geodns,103.135.111.2
-AS12008,"Vercara, LLC",geodns,156.154.133.200
+AS39572,DataWeb Global Group B.V.,geodns,46.229.175.55
+AS199524,G-Core Labs S.A.,geodns,92.223.77.201
+AS134963,Alibaba Cloud (Singapore) Private Limited,geodns,8.212.93.4
+AS12008,"Vercara, LLC",geodns,156.154.132.200
+AS398367,Lite Speed Technologies Inc.,geodns,64.66.240.1
 AS201589,EDGEAM LLC,geodns,5.101.39.39
-AS398367,Lite Speed Technologies Inc.,geodns,64.66.241.1
 AS198412,RAGE4 NETWORKS POLSKA SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA,geodns,176.124.113.200
-AS20473,"The Constant Company, LLC",geodns,149.28.47.113
 AS396982,Google LLC,geodns,35.196.50.58
-AS210756,EdgeCenter LLC,geodns,5.188.176.176
-AS131447,POPIDC powered by CSLoxinfo,geodns,103.253.135.151
-AS16509,"Amazon.com, Inc.",hosting,54.229.127.0
-AS8075,Microsoft Corporation,hosting,135.120.0.0
-AS14618,"Amazon.com, Inc.",hosting,204.77.169.164
-AS396982,Google LLC,hosting,34.4.0.0
-AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",hosting,47.122.127.210
-AS20940,Akamai International B.V.,hosting,92.123.192.0
-AS45090,Shenzhen Tencent Computer Systems Company Limited,hosting,123.206.0.0
-AS45102,"Alibaba (US) Technology Co., Ltd.",hosting,116.251.96.128
-AS31898,Oracle Corporation,hosting,139.177.102.29
-AS16276,OVH SAS,hosting,51.38.16.72
-AS16625,"Akamai Technologies, Inc.",hosting,23.218.128.0
-AS36351,IBM Cloud,hosting,104.207.183.192
-AS14061,"DigitalOcean, LLC",hosting,207.154.192.0
-AS24940,Hetzner Online GmbH,hosting,78.47.24.0
-AS132203,"Tencent Building, Kejizhongyi Avenue",hosting,129.226.171.64
-AS559,SWITCH,hosting,148.187.144.0
-AS1101,IP-EEND BV,hosting,145.220.183.28
-AS55990,Huawei Cloud Service data center,hosting,139.9.0.0
-AS43515,Google Ireland Limited,hosting,34.2.64.0
-AS7385,"Allstream Business US, LLC",hosting,68.178.64.0
-AS9009,M247 Europe SRL,hosting,193.176.86.135
-AS8987,Amazon Technologies Inc.,hosting,18.252.164.0
-AS15830,Equinix (EMEA) Acquisition Enterprises B.V.,hosting,45.156.127.52
-AS20473,"The Constant Company, LLC",hosting,104.156.250.0
-AS13335,"Cloudflare, Inc.",hosting,94.194.208.0
-AS7922,"Comcast Cable Communications, LLC",hotspot,69.243.176.236
-AS7018,"AT&T Enterprises, LLC",hotspot,12.179.167.227
-AS8151,Uninet S.A. de C.V.,hotspot,189.182.58.89
-AS20115,Charter Communications LLC,hotspot,71.8.120.134
-AS22773,Cox Communications Inc.,hotspot,70.173.62.94
-AS10796,Charter Communications Inc,hotspot,72.133.202.33
-AS11427,Charter Communications Inc,hotspot,173.175.137.255
-AS577,Bell Canada,hotspot,74.14.234.118
-AS701,Verizon Business,hotspot,100.12.135.168
-AS33363,"Charter Communications, Inc",hotspot,24.164.45.165
-AS7713,PT Telekomunikasi Indonesia,hotspot,36.85.92.204
-AS11426,Charter Communications Inc,hotspot,98.25.11.192
-AS13999,"Mega Cable, S.A. de C.V.",hotspot,200.77.12.169
-AS28573,Claro NXT Telecomunicacoes Ltda,hotspot,189.5.175.231
-AS5089,Virgin Media Limited,hotspot,82.11.191.126
-AS20001,Charter Communications Inc,hotspot,172.114.142.30
-AS45899,VNPT Corp,hotspot,14.191.174.155
-AS6128,Cablevision Systems Corp.,hotspot,69.124.144.81
-AS852,TELUS Communications Inc.,hotspot,142.59.62.52
-AS25019,Saudi Telecom Company JSC,hotspot,176.44.135.28
-AS209,"CenturyLink Communications, LLC",hotspot,209.181.137.145
-AS19108,Optimum,hotspot,74.193.252.51
-AS11351,Charter Communications Inc,hotspot,67.246.147.189
-AS812,Rogers Communications Canada Inc.,hotspot,99.232.113.18
-AS17676,SoftBank Corp.,hotspot,126.3.28.44
+AS9123,JSC TIMEWEB,geodns,92.255.76.133
+AS16509,"Amazon.com, Inc.",hosting,208.214.236.12
+AS8075,Microsoft Corporation,hosting,70.37.128.0
+AS14618,"Amazon.com, Inc.",hosting,54.83.200.0
+AS396982,Google LLC,hosting,194.187.56.0
+AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",hosting,8.150.64.0
+AS20940,Akamai International B.V.,hosting,23.1.32.0
+AS45090,Shenzhen Tencent Computer Systems Company Limited,hosting,109.244.81.0
+AS45102,"Alibaba (US) Technology Co., Ltd.",hosting,8.210.0.0
+AS31898,Oracle Corporation,hosting,153.72.209.225
+AS16276,OVH SAS,hosting,5.135.75.96
+AS16625,"Akamai Technologies, Inc.",hosting,72.247.64.0
+AS36351,IBM Cloud,hosting,170.225.114.10
+AS14061,"DigitalOcean, LLC",hosting,129.212.144.0
+AS24940,Hetzner Online GmbH,hosting,65.21.213.0
+AS132203,"Tencent Building, Kejizhongyi Avenue",hosting,129.226.145.196
+AS559,SWITCH,hosting,193.5.168.0
+AS1101,IP-EEND BV,hosting,145.220.183.96
+AS55990,Huawei Cloud Service data center,hosting,114.116.227.158
+AS43515,Google Ireland Limited,hosting,34.112.0.0
+AS7385,"Allstream Business US, LLC",hosting,64.62.10.176
+AS9009,M247 Europe SRL,hosting,185.9.19.91
+AS8987,Amazon Technologies Inc.,hosting,192.16.78.64
+AS20473,"The Constant Company, LLC",hosting,43.224.34.0
+AS15830,Equinix (EMEA) Acquisition Enterprises B.V.,hosting,185.170.95.56
+AS13335,"Cloudflare, Inc.",hosting,195.66.29.0
+AS7922,"Comcast Cable Communications, LLC",hotspot,73.85.228.110
+AS8151,Uninet S.A. de C.V.,hotspot,189.223.25.80
+AS28573,Claro NXT Telecomunicacoes Ltda,hotspot,201.80.54.4
+AS7018,"AT&T Enterprises, LLC",hotspot,108.81.189.206
+AS577,Bell Canada,hotspot,184.149.43.30
+AS27699,TELEFÔNICA BRASIL S.A,hotspot,189.79.78.5
+AS20115,Charter Communications LLC,hotspot,71.84.64.119
+AS4713,"NTT DOCOMO BUSINESS,Inc.",hotspot,180.2.170.58
+AS17676,SoftBank Corp.,hotspot,60.98.176.37
+AS22773,Cox Communications Inc.,hotspot,98.167.140.61
+AS812,Rogers Communications Canada Inc.,hotspot,99.252.227.7
+AS10796,Charter Communications Inc,hotspot,76.190.116.98
+AS852,TELUS Communications Inc.,hotspot,204.191.163.238
+AS13999,"Mega Cable, S.A. de C.V.",hotspot,187.241.13.65
+AS18881,TELEFÔNICA BRASIL S.A,hotspot,177.133.0.164
+AS7713,PT Telekomunikasi Indonesia,hotspot,36.82.89.111
+AS11427,Charter Communications Inc,hotspot,70.112.245.199
+AS6327,Shaw Communications,hotspot,24.80.173.190
+AS701,Verizon Business,hotspot,108.2.175.112
+AS33363,"Charter Communications, Inc",hotspot,173.168.128.82
+AS25019,Saudi Telecom Company JSC,hotspot,176.44.121.172
+AS5089,Virgin Media Limited,hotspot,86.0.99.45
+AS45899,VNPT Corp,hotspot,14.191.8.14
+AS11426,Charter Communications Inc,hotspot,174.106.94.200
+AS20001,Charter Communications Inc,hotspot,23.243.186.147
 AS9264,Academia Sinica,ix,103.130.252.0
-AS21003,General Post and Telecommunication Company (GPTC),ix,102.214.104.0
 AS4816,China Telecom (Group),ix,202.46.224.0
+AS21003,General Post and Telecommunication Company (GPTC),ix,154.73.28.0
 AS44530,HOPUS SAS,ix,37.77.32.0
-AS62,CyrusOne LLC,ix,198.32.164.0
-AS7713,PT Telekomunikasi Indonesia,ix,180.250.0.0
-AS7629,EPLDT,ix,202.57.113.0
-AS13194,Bite IP Network,ix,185.1.169.0
-AS135477,PT. Java Digital Nusantara,ix,103.76.148.0
+AS62,CyrusOne LLC,ix,198.32.198.0
+AS7713,PT Telekomunikasi Indonesia,ix,36.91.198.0
+AS13194,Bite IP Network,ix,185.0.20.0
 AS101,University of Washington,ix,198.32.195.0
-AS174,"Cogent Communications, LLC",ix,38.3.128.0
+AS135477,PT. Java Digital Nusantara,ix,203.29.26.0
+AS174,"Cogent Communications, LLC",ix,38.56.102.0
 AS263212,NETWORK ACCESS POINT DEL CARIBE - DR,ix,191.97.88.0
-AS43268,Science Network Solution LLC,ix,188.190.96.0
+AS43268,Science Network Solution LLC,ix,185.239.152.0
 AS197961,Stowarzyszenie e-Poludnie,ix,89.46.144.0
-AS4750,CS LOXINFO PUBLIC COMPANY LIMITED,ix,27.254.16.0
+AS7629,EPLDT,ix,125.5.128.0
+AS4750,CS LOXINFO PUBLIC COMPANY LIMITED,ix,27.254.18.0
 AS17612,Rinnai Korea,ix,106.48.36.0
 AS10217,PT. NTT Indonesia,ix,119.11.192.0
-AS32217,GPIEX INC,ix,23.156.192.0
-AS4755,TATA Communications formerly VSNL is Leading ISP,ix,103.156.182.0
-AS29076,Citytelecom LLC,ix,31.28.26.0
-AS224,Sikt - Kunnskapssektorens Tjenesteleverandor,ix,193.156.120.0
+AS29076,Citytelecom LLC,ix,31.28.29.0
+AS24095,ePLDT - Vitro Internet Data Center,ix,202.57.113.0
+AS224,Sikt - Kunnskapssektorens Tjenesteleverandor,ix,193.156.93.0
 AS141212,MyNet Broadband (Pvt.) Ltd,ix,160.191.228.0
-AS35179,Korbank S. A.,ix,212.127.90.0
+AS4755,TATA Communications formerly VSNL is Leading ISP,ix,103.156.182.0
+AS32217,GPIEX INC,ix,23.156.192.0
 AS4557,Rice University,ix,198.32.238.0
 AS24534,PT. Transhybrid Communication,ix,103.42.120.0
-AS16276,OVH SAS,mailserver,54.39.65.40
-AS12824,home.pl sp. z o.o.,mailserver,89.161.150.15
-AS31898,Oracle Corporation,mailserver,108.179.234.125
-AS2514,"NTT PC Communications, Inc.",mailserver,119.245.145.179
-AS46606,Unified Layer,mailserver,162.240.24.247
-AS15967,Nazwa.pl Sp.z.o.o.,mailserver,85.128.186.189
-AS398101,"GoDaddy.com, LLC",mailserver,160.153.33.230
-AS4713,"NTT DOCOMO BUSINESS,Inc.",mailserver,122.28.41.71
-AS51167,Contabo GmbH,mailserver,38.242.150.154
-AS8560,IONOS SE,mailserver,217.160.219.97
-AS4694,IDC Frontier Inc.,mailserver,164.46.46.203
-AS14061,"DigitalOcean, LLC",mailserver,104.248.46.144
-AS63949,Akamai Connected Cloud,mailserver,198.58.106.61
-AS16509,"Amazon.com, Inc.",mailserver,18.195.128.91
-AS3320,Deutsche Telekom AG,mailserver,62.159.188.219
-AS3462,Data Communication Business Group,mailserver,210.242.86.158
-AS32244,"Liquid Web, L.L.C",mailserver,67.227.157.9
-AS7684,SAKURA Internet Inc.,mailserver,133.242.139.181
-AS9371,SAKURA Internet Inc.,mailserver,49.212.180.33
-AS22611,"InMotion Hosting, Inc.",mailserver,74.124.212.76
-AS26496,"GoDaddy.com, LLC",mailserver,192.186.254.41
-AS22612,"Namecheap, Inc.",mailserver,199.192.22.64
-AS54641,"InMotion Hosting, Inc.",mailserver,173.231.209.48
-AS131965,XServer Cloud Inc.,mailserver,103.3.2.34
-AS6724,Strato GmbH,mailserver,85.214.20.78
-AS4713,"NTT DOCOMO BUSINESS,Inc.",mobile,153.154.224.0
-AS7018,"AT&T Enterprises, LLC",mobile,70.139.36.0
-AS6167,Verizon Business,mobile,166.211.40.0
-AS22394,Verizon Business,mobile,97.33.210.0
-AS2516,KDDI CORPORATION,mobile,106.168.142.0
-AS36992,ETISALAT MISR,mobile,105.94.128.0
-AS26611,COMUNICACIÓN CELULAR S.A. COMCEL S.A.,mobile,191.157.110.0
-AS6713,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,mobile,105.134.216.0
-AS37069,The Egyptian Company for Mobile Services (Mobinil),mobile,45.98.83.0
-AS20057,"AT&T Enterprises, LLC",mobile,166.216.224.17
-AS3215,Orange S.A.,mobile,92.139.2.0
-AS26615,TIM S/A,mobile,186.229.196.0
-AS1221,Telstra Limited,mobile,1.143.160.0
-AS4134,CHINANET BACKBONE,mobile,183.37.0.0
-AS17676,SoftBank Corp.,mobile,126.160.124.0
-AS2856,British Telecommunications Limited,mobile,31.117.192.0
-AS197207,Mobile Communication Company of Iran PLC,mobile,5.106.12.0
-AS852,TELUS Communications Inc.,mobile,207.134.180.0
-AS15557,Societe Francaise Du Radiotelephone - SFR SA,mobile,109.14.31.0
-AS55836,Reliance Jio Infocomm Limited,mobile,47.30.159.0
-AS35819,"Etihad Etisalat, a joint stock company",mobile,5.111.40.0
-AS36935,Vodafone Data,mobile,196.151.52.0
-AS5410,Bouygues Telecom SA,mobile,176.135.36.0
-AS45609,Bharti Airtel Ltd. AS for GPRS Service,mobile,223.186.74.0
-AS33771,Safaricom Limited,mobile,41.81.64.0
-AS16276,OVH SAS,nameserver,54.39.162.2
-AS31898,Oracle Corporation,nameserver,129.121.103.26
-AS46606,Unified Layer,nameserver,162.214.64.30
-AS8560,IONOS SE,nameserver,82.223.225.54
-AS16509,"Amazon.com, Inc.",nameserver,205.251.200.96
-AS51167,Contabo GmbH,nameserver,207.180.212.83
-AS14061,"DigitalOcean, LLC",nameserver,198.211.105.131
-AS63410,PrivateSystems Networks,nameserver,162.255.165.48
-AS63949,Akamai Connected Cloud,nameserver,172.104.166.5
-AS22612,"Namecheap, Inc.",nameserver,162.0.236.33
-AS13335,"Cloudflare, Inc.",nameserver,108.162.193.140
-AS3462,Data Communication Business Group,nameserver,220.128.128.188
-AS32244,"Liquid Web, L.L.C",nameserver,64.91.226.163
-AS19871,"Network Solutions, LLC",nameserver,162.241.171.166
-AS20473,"The Constant Company, LLC",nameserver,95.179.255.175
-AS55293,"A2 Hosting, Inc.",nameserver,69.48.178.179
-AS8075,Microsoft Corporation,nameserver,150.171.72.2
-AS40092,HostPapa,nameserver,66.102.134.107
-AS197540,netcup GmbH,nameserver,46.232.249.156
-AS47583,Hostinger International Limited,nameserver,82.25.115.146
-AS36352,HostPapa,nameserver,107.172.176.90
-AS33182,"HostDime.com, Inc.",nameserver,98.142.98.99
-AS4766,Korea Telecom,nameserver,211.104.6.1
-AS14618,"Amazon.com, Inc.",nameserver,18.205.241.160
-AS19318,"Interserver, Inc",nameserver,67.211.214.74
-AS396982,Google LLC,portscan,34.14.123.145
-AS25369,Hydra Communications Ltd,portscan,5.252.83.57
-AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",portscan,59.82.135.30
-AS8075,Microsoft Corporation,portscan,172.202.118.17
-AS213412,ONYPHE SAS,portscan,91.231.89.198
-AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,portscan,128.14.239.39
-AS14061,"DigitalOcean, LLC",portscan,64.227.90.185
-AS24139,Huashu media&Network Limited,portscan,113.215.189.12
-AS398324,"Censys, Inc.",portscan,66.132.172.172
-AS45102,"Alibaba (US) Technology Co., Ltd.",portscan,47.85.92.76
-AS63949,Akamai Connected Cloud,portscan,172.232.186.12
-AS398722,"Censys, Inc.",portscan,199.45.154.65
-AS14987,Rethem Hosting LLC,portscan,104.152.52.229
-AS211680,"NSEC - Sistemas Informaticos, S.A.",portscan,45.156.129.96
-AS21859,Zenlayer Inc,portscan,185.226.197.35
-AS209334,Modat B.V.,portscan,85.217.149.48
-AS4134,CHINANET BACKBONE,portscan,27.128.163.28
-AS6939,Hurricane Electric LLC,portscan,65.49.1.38
-AS132203,"Tencent Building, Kejizhongyi Avenue",portscan,162.62.121.154
-AS49581,Ferdinand Zink trading as Tube-Hosting,portscan,5.231.242.186
-AS215125,Church of Cyberology,portscan,192.42.116.118
-AS48090,TECHOFF SRV LIMITED,portscan,45.148.10.66
-AS47890,UNMANAGED LTD,portscan,193.46.255.156
-AS9465,AGOTOZ PTE. LTD.,portscan,156.225.1.44
-AS215925,VPSVAULT.HOST LTD,portscan,45.205.1.240
-AS22616,"ZSCALER, INC.",proxy,170.85.102.103
-AS62044,Zscaler Switzerland GmbH,proxy,87.58.96.128
-AS53813,"ZSCALER, INC.",proxy,101.2.224.199
-AS396178,Google LLC,proxy,136.121.16.0
-AS54994,Meteverse Limited.,proxy,140.150.29.175
-AS200373,3xK Tech GmbH,proxy,216.26.238.160
-AS15169,Google LLC,proxy,142.250.90.0
-AS4134,CHINANET BACKBONE,proxy,114.217.25.139
-AS5650,Verizon Business,proxy,209.101.176.249
-AS13335,"Cloudflare, Inc.",proxy,104.18.1.112
-AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",proxy,47.113.213.220
-AS4837,CHINA UNICOM China169 Backbone,proxy,101.72.228.80
-AS209242,"Cloudflare London, LLC",proxy,216.205.52.180
-AS142578,E-Large (HongKong),proxy,213.176.103.148
-AS45102,"Alibaba (US) Technology Co., Ltd.",proxy,47.83.24.87
-AS55990,Huawei Cloud Service data center,proxy,1.92.43.83
-AS4811,China Telecom (Group),proxy,114.80.38.42
-AS16509,"Amazon.com, Inc.",proxy,18.118.236.222
-AS137718,"Beijing Volcano Engine Technology Co., Ltd.",proxy,118.145.143.166
-AS9808,"China Mobile Communications Group Co., Ltd.",proxy,36.138.12.107
-AS4766,Korea Telecom,proxy,221.155.105.31
-AS45090,Shenzhen Tencent Computer Systems Company Limited,proxy,182.254.202.185
-AS134963,Alibaba Cloud (Singapore) Private Limited,proxy,38.47.128.176
-AS174,"Cogent Communications, LLC",proxy,38.244.57.16
-AS58519,Cloud Computing Corporation,proxy,182.44.8.45
-AS36692,"Cisco OpenDNS, LLC",relay,155.190.118.0
-AS36183,"Akamai Technologies, Inc.",relay,172.224.226.88
-AS13335,"Cloudflare, Inc.",relay,104.28.216.254
-AS3356,"Level 3 Parent, LLC",relay,8.43.226.0
-AS16509,"Amazon.com, Inc.",relay,151.186.174.0
-AS15169,Google LLC,relay,136.23.57.0
-AS54113,"Fastly, Inc.",relay,146.75.128.0
-AS20940,Akamai International B.V.,relay,172.225.139.128
-AS2900,Arizona Tri University Network,relay,206.206.223.4
+AS16276,OVH SAS,mailserver,51.75.156.88
+AS12824,home.pl sp. z o.o.,mailserver,62.129.208.131
+AS31898,Oracle Corporation,mailserver,108.167.144.74
+AS2514,"NTT PC Communications, Inc.",mailserver,161.34.17.64
+AS46606,Unified Layer,mailserver,162.214.100.246
+AS15967,Nazwa.pl Sp.z.o.o.,mailserver,85.128.190.193
+AS398101,"GoDaddy.com, LLC",mailserver,208.109.227.211
+AS4713,"NTT DOCOMO BUSINESS,Inc.",mailserver,210.154.231.152
+AS51167,Contabo GmbH,mailserver,173.212.231.210
+AS8560,IONOS SE,mailserver,77.68.21.243
+AS4694,IDC Frontier Inc.,mailserver,210.152.151.40
+AS14061,"DigitalOcean, LLC",mailserver,128.199.57.176
+AS63949,Akamai Connected Cloud,mailserver,172.105.158.4
+AS16509,"Amazon.com, Inc.",mailserver,52.60.106.210
+AS3320,Deutsche Telekom AG,mailserver,93.241.72.41
+AS3462,Data Communication Business Group,mailserver,60.250.95.9
+AS32244,"Liquid Web, L.L.C",mailserver,67.225.140.255
+AS7684,SAKURA Internet Inc.,mailserver,153.120.44.67
+AS9371,SAKURA Internet Inc.,mailserver,219.94.214.100
+AS22611,"InMotion Hosting, Inc.",mailserver,205.134.253.35
+AS131965,XServer Cloud Inc.,mailserver,162.43.117.27
+AS6724,Strato GmbH,mailserver,85.214.73.145
+AS22612,"Namecheap, Inc.",mailserver,198.54.119.101
+AS54641,"InMotion Hosting, Inc.",mailserver,173.231.220.197
+AS197540,netcup GmbH,mailserver,46.38.237.176
+AS4713,"NTT DOCOMO BUSINESS,Inc.",mobile,211.122.205.0
+AS7018,"AT&T Enterprises, LLC",mobile,71.138.108.0
+AS6167,Verizon Business,mobile,174.228.247.0
+AS22394,Verizon Business,mobile,97.45.198.0
+AS2516,KDDI CORPORATION,mobile,106.157.71.0
+AS36992,ETISALAT MISR,mobile,156.174.175.0
+AS26611,COMUNICACIÓN CELULAR S.A. COMCEL S.A.,mobile,181.251.160.0
+AS6713,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,mobile,105.140.136.0
+AS37069,The Egyptian Company for Mobile Services (Mobinil),mobile,197.223.216.0
+AS20057,"AT&T Enterprises, LLC",mobile,166.217.191.8
+AS26615,TIM S/A,mobile,191.173.72.0
+AS3215,Orange S.A.,mobile,92.175.7.0
+AS1221,Telstra Limited,mobile,1.156.240.0
+AS4134,CHINANET BACKBONE,mobile,106.9.123.0
+AS17676,SoftBank Corp.,mobile,126.196.128.0
+AS2856,British Telecommunications Limited,mobile,213.120.223.0
+AS197207,Mobile Communication Company of Iran PLC,mobile,89.198.2.0
+AS36935,Vodafone Data,mobile,196.132.8.0
+AS35819,"Etihad Etisalat, a joint stock company",mobile,37.242.196.0
+AS33771,Safaricom Limited,mobile,196.97.0.0
+AS55836,Reliance Jio Infocomm Limited,mobile,157.50.80.0
+AS45609,Bharti Airtel Ltd. AS for GPRS Service,mobile,27.59.173.0
+AS17421,Mobile Business Group,mobile,223.143.0.0
+AS15557,Societe Francaise Du Radiotelephone - SFR SA,mobile,77.204.34.0
+AS4837,CHINA UNICOM China169 Backbone,mobile,218.26.48.0
+AS16276,OVH SAS,nameserver,51.178.136.67
+AS31898,Oracle Corporation,nameserver,129.121.87.157
+AS46606,Unified Layer,nameserver,162.240.208.184
+AS8560,IONOS SE,nameserver,87.106.100.28
+AS16509,"Amazon.com, Inc.",nameserver,52.76.106.138
+AS51167,Contabo GmbH,nameserver,38.242.155.244
+AS63410,PrivateSystems Networks,nameserver,162.211.82.37
+AS14061,"DigitalOcean, LLC",nameserver,107.170.19.183
+AS63949,Akamai Connected Cloud,nameserver,176.58.117.107
+AS22612,"Namecheap, Inc.",nameserver,192.64.118.166
+AS13335,"Cloudflare, Inc.",nameserver,162.159.27.117
+AS3462,Data Communication Business Group,nameserver,59.120.194.148
+AS32244,"Liquid Web, L.L.C",nameserver,209.59.190.78
+AS19871,"Network Solutions, LLC",nameserver,216.21.231.240
+AS20473,"The Constant Company, LLC",nameserver,192.248.186.107
+AS55293,"A2 Hosting, Inc.",nameserver,190.92.159.228
+AS8075,Microsoft Corporation,nameserver,20.25.22.214
+AS40092,HostPapa,nameserver,45.56.221.22
+AS197540,netcup GmbH,nameserver,202.61.252.137
+AS47583,Hostinger International Limited,nameserver,168.231.110.88
+AS398101,"GoDaddy.com, LLC",nameserver,208.109.37.172
+AS36352,HostPapa,nameserver,192.210.243.48
+AS33182,"HostDime.com, Inc.",nameserver,143.255.57.154
+AS4766,Korea Telecom,nameserver,218.157.219.39
+AS14618,"Amazon.com, Inc.",nameserver,107.20.247.20
+AS396982,Google LLC,portscan,147.185.133.226
+AS25369,Hydra Communications Ltd,portscan,2.57.17.186
+AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",portscan,59.82.135.203
+AS213412,ONYPHE SAS,portscan,91.196.152.65
+AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,portscan,152.32.186.194
+AS14061,"DigitalOcean, LLC",portscan,146.190.145.217
+AS8075,Microsoft Corporation,portscan,64.236.143.216
+AS24139,Huashu media&Network Limited,portscan,113.215.188.15
+AS398324,"Censys, Inc.",portscan,66.132.172.101
+AS45102,"Alibaba (US) Technology Co., Ltd.",portscan,47.85.219.100
+AS63949,Akamai Connected Cloud,portscan,172.239.64.86
+AS398722,"Censys, Inc.",portscan,199.45.155.98
+AS211680,"NSEC - Sistemas Informaticos, S.A.",portscan,45.156.128.129
+AS21859,Zenlayer Inc,portscan,185.226.196.12
+AS14987,Rethem Hosting LLC,portscan,104.152.52.119
+AS16509,"Amazon.com, Inc.",portscan,3.141.168.125
+AS209334,Modat B.V.,portscan,85.217.149.38
+AS208137,Feo Prest SRL,portscan,213.177.179.156
+AS6939,Hurricane Electric LLC,portscan,64.62.197.62
+AS49581,Ferdinand Zink trading as Tube-Hosting,portscan,5.231.242.202
+AS132203,"Tencent Building, Kejizhongyi Avenue",portscan,43.152.245.141
+AS215125,Church of Cyberology,portscan,192.42.116.48
+AS48090,TECHOFF SRV LIMITED,portscan,45.148.10.73
+AS47890,UNMANAGED LTD,portscan,80.94.92.11
+AS206134,NEKOBYTE INTERNATIONAL LIMITED,portscan,31.76.224.135
+AS22616,"ZSCALER, INC.",proxy,136.226.80.220
+AS62044,Zscaler Switzerland GmbH,proxy,147.161.226.160
+AS53813,"ZSCALER, INC.",proxy,147.161.196.222
+AS396178,Google LLC,proxy,136.121.24.0
+AS54994,Meteverse Limited.,proxy,138.113.20.34
+AS200373,3xK Tech GmbH,proxy,216.26.243.44
+AS15169,Google LLC,proxy,74.125.212.160
+AS4134,CHINANET BACKBONE,proxy,106.58.218.250
+AS13335,"Cloudflare, Inc.",proxy,104.17.68.109
+AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",proxy,47.93.95.101
+AS7029,Windstream Communications LLC,proxy,199.74.39.8
+AS4837,CHINA UNICOM China169 Backbone,proxy,153.101.116.230
+AS209242,"Cloudflare London, LLC",proxy,89.116.250.193
+AS142578,E-Large (HongKong),proxy,213.176.50.1
+AS45102,"Alibaba (US) Technology Co., Ltd.",proxy,47.243.158.134
+AS55990,Huawei Cloud Service data center,proxy,115.120.125.16
+AS4811,China Telecom (Group),proxy,61.171.67.138
+AS16509,"Amazon.com, Inc.",proxy,3.107.199.224
+AS5650,Verizon Business,proxy,209.101.160.134
+AS137718,"Beijing Volcano Engine Technology Co., Ltd.",proxy,118.145.191.250
+AS9808,"China Mobile Communications Group Co., Ltd.",proxy,120.223.192.33
+AS4766,Korea Telecom,proxy,220.87.182.192
+AS45090,Shenzhen Tencent Computer Systems Company Limited,proxy,150.158.52.170
+AS134963,Alibaba Cloud (Singapore) Private Limited,proxy,45.194.63.40
+AS174,"Cogent Communications, LLC",proxy,38.95.73.217
+AS36692,"Cisco OpenDNS, LLC",relay,151.186.128.0
+AS36183,"Akamai Technologies, Inc.",relay,172.226.146.48
+AS13335,"Cloudflare, Inc.",relay,104.28.117.18
+AS3356,"Level 3 Parent, LLC",relay,8.34.201.0
+AS16509,"Amazon.com, Inc.",relay,151.186.172.0
+AS15169,Google LLC,relay,162.120.216.252
+AS54113,"Fastly, Inc.",relay,146.75.130.0
+AS20940,Akamai International B.V.,relay,172.225.183.64
+AS2900,Arizona Tri University Network,relay,206.206.223.1
 AS395747,"Cloudflare, Inc.",relay,8.17.207.0
 AS19994,Rackspace Hosting,relay,108.171.160.0
-AS13631,CITADEL ENTERPRISE AMERICAS LLC,relay,46.255.29.112
+AS25605,"Cisco OpenDNS, LLC",relay,67.215.95.0
+AS13631,CITADEL ENTERPRISE AMERICAS LLC,relay,46.255.29.100
 AS401164,Elizabeth Board of Education,relay,66.45.116.8
-AS394276,"TurnAround Factor, Inc.",relay,208.94.208.2
+AS394276,"TurnAround Factor, Inc.",relay,208.94.208.1
 AS152628,DBS Bank (Taiwan) Ltd,relay,165.99.168.2
 AS9327,Hopcount Limited,relay,199.212.93.2
-AS4766,Korea Telecom,resolver,121.138.208.3
-AS13335,"Cloudflare, Inc.",resolver,162.159.46.220
-AS17557,Pakistan Telecommunication Company Limited,resolver,39.36.25.61
-AS21342,Akamai International B.V.,resolver,23.216.53.97
-AS3462,Data Communication Business Group,resolver,220.130.22.78
-AS7922,"Comcast Cable Communications, LLC",resolver,75.75.36.170
-AS20473,"The Constant Company, LLC",resolver,66.42.127.224
-AS14061,"DigitalOcean, LLC",resolver,178.128.172.86
-AS16276,OVH SAS,resolver,51.75.161.42
-AS34939,"NextDNS, Inc.",resolver,45.90.31.95
-AS205157,Daniel Cid,resolver,185.228.168.12
-AS274035,ARCOFIBER CONEXIONES SRL (RODRITEL),resolver,72.1.185.81
-AS272339,GRUPO CONVERGENTE ARZOLA,resolver,38.236.122.205
-AS270010,AIRWIZ PERU E.I.R.L,resolver,200.39.152.196
-AS31898,Oracle Corporation,resolver,157.151.244.153
-AS58495,PT Parsaoran Global Datatrans,resolver,210.87.87.176
-AS208070,TILYTEL Business S.L.,resolver,45.159.170.119
-AS135341,Orange Communication,resolver,103.151.74.82
-AS398962,CONTROLD INC.,resolver,176.125.239.209
-AS134651,PT Yetoya Solusi Indonesia,resolver,113.192.27.168
-AS137453,Orange Communication,resolver,103.175.245.106
-AS138926,Netpoint IT & Communications Pvt. Ltd,resolver,163.61.145.197
-AS58689,ICC Communication,resolver,103.109.238.126
-AS132295,Jahid Communication,resolver,103.129.33.109
-AS16509,"Amazon.com, Inc.",resolver,75.2.65.135
-AS7922,"Comcast Cable Communications, LLC",router,107.4.171.84
-AS7018,"AT&T Enterprises, LLC",router,75.29.192.23
-AS4134,CHINANET BACKBONE,router,222.176.2.250
-AS20115,Charter Communications LLC,router,172.222.210.208
-AS7713,PT Telekomunikasi Indonesia,router,36.93.251.73
-AS9498,BHARTI Airtel Ltd.,router,27.123.125.62
-AS3269,Telecom Italia S.p.A.,router,88.58.100.105
-AS10796,Charter Communications Inc,router,96.28.49.121
-AS20001,Charter Communications Inc,router,45.49.190.207
-AS4837,CHINA UNICOM China169 Backbone,router,116.133.4.1
-AS6128,Cablevision Systems Corp.,router,69.121.155.210
-AS11427,Charter Communications Inc,router,24.162.97.92
-AS4812,China Telecom (Group),router,61.152.9.46
-AS4766,Korea Telecom,router,183.111.94.178
-AS2856,British Telecommunications Limited,router,213.121.193.196
-AS3356,"Level 3 Parent, LLC",router,8.243.138.46
-AS13335,"Cloudflare, Inc.",router,172.71.221.36
-AS33363,"Charter Communications, Inc",router,108.190.168.57
-AS5617,Orange Polska Spolka Akcyjna,router,79.189.82.173
-AS9808,"China Mobile Communications Group Co., Ltd.",router,221.183.184.82
-AS3303,Swisscom (Switzerland) Ltd,router,46.14.0.165
-AS8447,A1 Telekom Austria AG,router,80.120.230.17
-AS4230,CLARO S.A.,router,200.208.46.98
-AS31655,Gamma Telecom Holdings Ltd,router,157.125.84.0
-AS11426,Charter Communications Inc,router,104.139.156.88
-AS14593,Space Exploration Technologies Corporation,satellite,98.97.52.0
-AS801,Amazon Technologies Inc.,satellite,35.96.54.0
-AS7155,"ViaSat,Inc.",satellite,198.45.244.166
-AS29286,SKYLOGIC S.P.A.,satellite,178.132.57.0
-AS24033,Australian Private Networks Pty Ltd,satellite,203.213.227.0
-AS12684,SES ASTRA S.A.,satellite,216.252.129.0
-AS7477,SkyMesh Pty Ltd,satellite,118.67.46.0
-AS5377,Marlink AS,satellite,77.70.231.0
-AS22351,INTELSAT GLOBAL SERVICE CORPORATION,satellite,216.250.210.221
-AS45700,PT. NAP Info Lintas Nusa,satellite,116.254.99.0
-AS25222,Inmarsat Solutions B.V.,satellite,78.40.70.0
-AS6621,"Hughes Network Systems, LLC",satellite,72.170.241.0
-AS43905,SPACE NORWAY SATCOM AS,satellite,213.234.69.0
-AS212465,Comcast International Holdings UK Limited,satellite,184.120.128.0
-AS265705,HUGHES DE COLOMBIA S.A.S.,satellite,190.1.80.0
-AS328306,Avanti Communications South Africa (Pty) Ltd,satellite,41.198.251.0
-AS29259,IABG Teleport GmbH,satellite,84.11.97.0
-AS8920,JSC RTComm.RU,satellite,82.194.161.0
-AS41697,Hellas Sat Consortium Ltd,satellite,94.125.146.0
+AS4766,Korea Telecom,resolver,220.123.145.144
+AS13335,"Cloudflare, Inc.",resolver,172.64.46.20
+AS17557,Pakistan Telecommunication Company Limited,resolver,182.180.172.164
+AS21342,Akamai International B.V.,resolver,88.221.163.83
+AS3462,Data Communication Business Group,resolver,60.248.142.204
+AS7922,"Comcast Cable Communications, LLC",resolver,174.50.201.63
+AS20473,"The Constant Company, LLC",resolver,45.77.101.136
+AS14061,"DigitalOcean, LLC",resolver,162.243.224.10
+AS16276,OVH SAS,resolver,164.132.44.241
+AS34939,"NextDNS, Inc.",resolver,45.90.30.153
+AS205157,Daniel Cid,resolver,185.228.168.120
+AS274035,ARCOFIBER CONEXIONES SRL (RODRITEL),resolver,72.1.184.50
+AS272339,GRUPO CONVERGENTE ARZOLA,resolver,38.236.123.240
+AS270010,AIRWIZ PERU E.I.R.L,resolver,200.39.155.60
+AS31898,Oracle Corporation,resolver,140.245.228.118
+AS58495,PT Parsaoran Global Datatrans,resolver,157.10.8.234
+AS208070,TILYTEL Business S.L.,resolver,45.159.168.241
+AS135341,Orange Communication,resolver,103.134.127.5
+AS398962,CONTROLD INC.,resolver,176.125.239.174
+AS134651,PT Yetoya Solusi Indonesia,resolver,103.208.207.20
+AS137453,Orange Communication,resolver,103.175.245.233
+AS138926,Netpoint IT & Communications Pvt. Ltd,resolver,103.157.89.143
+AS58689,ICC Communication,resolver,116.204.228.131
+AS132295,Jahid Communication,resolver,103.129.32.53
+AS16509,"Amazon.com, Inc.",resolver,52.223.1.217
+AS7922,"Comcast Cable Communications, LLC",router,68.46.65.253
+AS7018,"AT&T Enterprises, LLC",router,68.255.70.108
+AS4134,CHINANET BACKBONE,router,202.97.82.206
+AS20115,Charter Communications LLC,router,97.87.189.131
+AS7713,PT Telekomunikasi Indonesia,router,36.88.147.122
+AS9498,BHARTI Airtel Ltd.,router,182.76.142.141
+AS3269,Telecom Italia S.p.A.,router,80.16.115.237
+AS10796,Charter Communications Inc,router,174.104.44.140
+AS4837,CHINA UNICOM China169 Backbone,router,219.158.37.145
+AS4766,Korea Telecom,router,175.213.87.254
+AS6128,Cablevision Systems Corp.,router,69.117.239.27
+AS11427,Charter Communications Inc,router,66.68.133.187
+AS4812,China Telecom (Group),router,58.40.138.101
+AS2856,British Telecommunications Limited,router,109.144.131.51
+AS3356,"Level 3 Parent, LLC",router,64.159.157.138
+AS33363,"Charter Communications, Inc",router,108.190.238.26
+AS13335,"Cloudflare, Inc.",router,104.22.50.78
+AS5617,Orange Polska Spolka Akcyjna,router,83.13.44.153
+AS20001,Charter Communications Inc,router,172.88.142.122
+AS3303,Swisscom (Switzerland) Ltd,router,217.193.57.42
+AS8447,A1 Telekom Austria AG,router,88.117.242.197
+AS9808,"China Mobile Communications Group Co., Ltd.",router,111.19.15.18
+AS31655,Gamma Telecom Holdings Ltd,router,157.231.179.181
+AS4230,CLARO S.A.,router,200.179.202.94
+AS11426,Charter Communications Inc,router,71.76.233.196
+AS14593,Space Exploration Technologies Corporation,satellite,150.228.153.0
+AS801,Amazon Technologies Inc.,satellite,35.97.232.0
+AS7155,"ViaSat,Inc.",satellite,70.41.52.2
+AS29286,SKYLOGIC S.P.A.,satellite,37.72.224.0
+AS24033,Australian Private Networks Pty Ltd,satellite,116.251.24.0
+AS12684,SES ASTRA S.A.,satellite,64.110.178.0
+AS7477,SkyMesh Pty Ltd,satellite,118.67.61.0
+AS5377,Marlink AS,satellite,77.70.155.0
+AS22351,INTELSAT GLOBAL SERVICE CORPORATION,satellite,66.205.19.251
+AS45700,PT. NAP Info Lintas Nusa,satellite,202.65.232.0
+AS25222,Inmarsat Solutions B.V.,satellite,68.67.2.0
+AS6621,"Hughes Network Systems, LLC",satellite,72.170.235.0
+AS43905,SPACE NORWAY SATCOM AS,satellite,213.234.71.0
+AS265705,HUGHES DE COLOMBIA S.A.S.,satellite,190.1.74.0
+AS328306,Avanti Communications South Africa (Pty) Ltd,satellite,102.140.45.0
+AS29259,IABG Teleport GmbH,satellite,84.11.91.0
+AS8920,JSC RTComm.RU,satellite,212.16.222.0
+AS41810,Electronic Resources Company Ltd,satellite,82.167.178.0
+AS41697,Hellas Sat Consortium Ltd,satellite,94.125.145.0
 AS29304,JSC SATIS-TL-94,satellite,82.112.2.0
-AS205020,DataGrid Network GmbH,satellite,80.251.14.0
-AS27855,AXESAT S.A,satellite,190.7.68.0
-AS41810,Electronic Resources Company Ltd,satellite,82.167.191.0
-AS204649,Sure South Atlantic Limited,satellite,80.73.212.0
-AS40306,"ViaSat,Inc.",satellite,99.196.129.42
-AS396982,Google LLC,ssh,34.96.83.168
-AS16509,"Amazon.com, Inc.",ssh,3.10.173.59
-AS14061,"DigitalOcean, LLC",ssh,67.205.161.76
-AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",ssh,47.97.121.179
-AS31898,Oracle Corporation,ssh,80.225.196.79
-AS16276,OVH SAS,ssh,54.36.104.151
-AS45090,Shenzhen Tencent Computer Systems Company Limited,ssh,1.14.162.30
-AS14618,"Amazon.com, Inc.",ssh,54.221.103.4
-AS45102,"Alibaba (US) Technology Co., Ltd.",ssh,47.254.65.234
-AS20473,"The Constant Company, LLC",ssh,149.28.169.209
-AS132203,"Tencent Building, Kejizhongyi Avenue",ssh,43.129.37.58
-AS63949,Akamai Connected Cloud,ssh,172.235.40.185
-AS8075,Microsoft Corporation,ssh,4.211.107.9
-AS8560,IONOS SE,ssh,82.165.59.175
-AS51167,Contabo GmbH,ssh,144.91.105.247
-AS36352,HostPapa,ssh,172.245.178.207
-AS2914,"NTT America, Inc.",ssh,40.27.53.162
-AS87,Indiana University,ssh,149.166.208.78
-AS4134,CHINANET BACKBONE,ssh,114.217.51.121
-AS24940,Hetzner Online GmbH,ssh,204.168.248.68
-AS4766,Korea Telecom,ssh,183.106.234.77
-AS47583,Hostinger International Limited,ssh,72.62.61.141
-AS55990,Huawei Cloud Service data center,ssh,1.92.45.244
-AS9123,JSC TIMEWEB,ssh,201.34.138.151
-AS9488,Seoul National University,ssh,147.46.106.188
-AS60729,Stiftung Erneuerbare Freiheit,tor,185.220.101.18
-AS401401,Unredacted Inc,tor,23.191.200.112
-AS62744,Quintex Alliance Consulting,tor,204.8.96.155
-AS53667,FranTech Solutions,tor,107.189.10.175
-AS396507,Emerald Onion,tor,23.129.64.99
-AS215125,Church of Cyberology,tor,192.42.116.14
-AS211619,MAXKO d.o.o.,tor,45.9.168.45
-AS36352,HostPapa,tor,67.215.234.141
-AS200651,FlokiNET ehf,tor,185.246.188.74
-AS61125,SABOTAGE LLC,tor,45.66.35.24
-AS27284,Fourplex Telecom LLC,tor,147.90.235.22
-AS197540,netcup GmbH,tor,188.68.52.231
-AS63023,GTHost,tor,138.249.138.124
-AS60404,Liteserver,tor,5.255.105.87
-AS211507,Julian Achter,tor,185.132.53.11
-AS48031,Ivanov Vitaliy Sergeevich,tor,109.122.27.34
-AS198093,Foreningen for digitala fri- och rattigheter,tor,171.25.193.82
-AS214503,QuxLabs AB,tor,45.84.107.47
-AS400226,StormyCloud Inc,tor,23.128.248.176
-AS205100,F3 Netze e.V.,tor,185.220.100.247
-AS208323,Foundation for Applied Privacy,tor,109.70.100.4
-AS56655,Gigahost AS,tor,185.243.218.229
-AS58087,Florian Kolb,tor,109.71.252.97
-AS16276,OVH SAS,tor,51.81.222.62
-AS63949,Akamai Connected Cloud,tor,139.162.208.30
-AS3320,Deutsche Telekom AG,vpn,87.138.154.166
-AS4837,CHINA UNICOM China169 Backbone,vpn,101.71.193.48
-AS4134,CHINANET BACKBONE,vpn,58.221.193.10
-AS3209,Vodafone GmbH,vpn,91.64.152.98
-AS3462,Data Communication Business Group,vpn,210.61.208.62
-AS6805,Telefonica Germany GmbH & Co.OHG,vpn,77.189.230.27
-AS7922,"Comcast Cable Communications, LLC",vpn,173.163.197.69
-AS8881,1&1 Versatel GmbH,vpn,92.116.205.120
-AS2514,"NTT PC Communications, Inc.",vpn,157.65.112.62
-AS212238,Datacamp Limited,vpn,216.177.135.124
-AS14061,"DigitalOcean, LLC",vpn,159.223.138.188
-AS4766,Korea Telecom,vpn,183.101.123.244
-AS2527,Sony Network Communications Inc.,vpn,218.110.241.2
-AS1221,Telstra Limited,vpn,144.139.60.142
-AS17676,SoftBank Corp.,vpn,126.124.213.34
-AS12389,PJSC Rostelecom,vpn,176.211.216.109
-AS9145,EWE TEL GmbH,vpn,37.138.245.211
-AS9009,M247 Europe SRL,vpn,77.243.191.102
-AS16509,"Amazon.com, Inc.",vpn,3.19.81.136
-AS4685,Asahi Net,vpn,157.107.11.186
-AS2519,ARTERIA Networks Corporation,vpn,27.121.208.75
-AS2518,BIGLOBE Inc.,vpn,119.241.107.156
-AS4713,"NTT DOCOMO BUSINESS,Inc.",vpn,180.43.28.12
-AS7018,"AT&T Enterprises, LLC",vpn,108.232.146.170
-AS3269,Telecom Italia S.p.A.,vpn,87.3.125.86
-AS16509,"Amazon.com, Inc.",webserver,108.139.56.61
-AS16625,"Akamai Technologies, Inc.",webserver,2.20.141.77
-AS14618,"Amazon.com, Inc.",webserver,3.225.130.60
-AS396982,Google LLC,webserver,34.48.18.13
-AS8075,Microsoft Corporation,webserver,20.12.216.78
-AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",webserver,47.99.166.242
-AS14061,"DigitalOcean, LLC",webserver,161.35.177.100
-AS16276,OVH SAS,webserver,46.105.106.54
-AS13335,"Cloudflare, Inc.",webserver,104.18.26.12
-AS4766,Korea Telecom,webserver,222.99.73.140
-AS47583,Hostinger International Limited,webserver,82.180.128.178
-AS45090,Shenzhen Tencent Computer Systems Company Limited,webserver,129.211.211.236
-AS31898,Oracle Corporation,webserver,89.168.16.115
-AS24940,Hetzner Online GmbH,webserver,49.13.22.6
-AS45102,"Alibaba (US) Technology Co., Ltd.",webserver,47.237.7.33
-AS174,"Cogent Communications, LLC",webserver,38.63.222.84
-AS132839,POWER LINE DATACENTER,webserver,103.85.190.220
-AS3462,Data Communication Business Group,webserver,114.32.197.136
-AS3320,Deutsche Telekom AG,webserver,193.104.90.86
-AS20940,Akamai International B.V.,webserver,23.218.217.48
-AS20473,"The Constant Company, LLC",webserver,149.28.252.97
-AS63949,Akamai Connected Cloud,webserver,172.237.27.53
-AS8560,IONOS SE,webserver,212.227.22.153
-AS54600,PEG TECH INC,webserver,192.74.254.6
-AS36352,HostPapa,webserver,23.94.149.251
+AS205020,DataGrid Network GmbH,satellite,80.251.13.0
+AS27855,AXESAT S.A,satellite,190.103.127.0
+AS40306,"ViaSat,Inc.",satellite,75.104.93.155
+AS4913,"Speedcast Communications, Inc",satellite,186.208.45.0
+AS204649,Sure South Atlantic Limited,satellite,80.73.216.0
+AS396982,Google LLC,ssh,34.153.27.227
+AS16509,"Amazon.com, Inc.",ssh,3.16.149.62
+AS14061,"DigitalOcean, LLC",ssh,178.128.57.82
+AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",ssh,139.129.18.243
+AS31898,Oracle Corporation,ssh,40.233.76.233
+AS45090,Shenzhen Tencent Computer Systems Company Limited,ssh,154.8.225.78
+AS16276,OVH SAS,ssh,51.178.199.248
+AS14618,"Amazon.com, Inc.",ssh,52.207.148.124
+AS45102,"Alibaba (US) Technology Co., Ltd.",ssh,47.83.163.28
+AS20473,"The Constant Company, LLC",ssh,45.32.227.131
+AS132203,"Tencent Building, Kejizhongyi Avenue",ssh,43.167.246.248
+AS8075,Microsoft Corporation,ssh,20.231.86.15
+AS63949,Akamai Connected Cloud,ssh,172.233.143.219
+AS51167,Contabo GmbH,ssh,62.84.190.46
+AS8560,IONOS SE,ssh,212.227.164.142
+AS36352,HostPapa,ssh,104.168.100.22
+AS2914,"NTT America, Inc.",ssh,145.79.153.201
+AS4134,CHINANET BACKBONE,ssh,222.222.72.246
+AS24940,Hetzner Online GmbH,ssh,178.104.237.161
+AS47583,Hostinger International Limited,ssh,2.25.133.63
+AS398101,"GoDaddy.com, LLC",ssh,50.62.149.145
+AS4766,Korea Telecom,ssh,49.143.207.9
+AS9123,JSC TIMEWEB,ssh,94.228.116.59
+AS55990,Huawei Cloud Service data center,ssh,113.47.177.62
+AS9488,Seoul National University,ssh,147.46.233.54
+AS60729,Stiftung Erneuerbare Freiheit,tor,185.220.101.164
+AS401401,Unredacted Inc,tor,23.191.200.4
+AS62744,Quintex Alliance Consulting,tor,204.8.96.152
+AS53667,FranTech Solutions,tor,205.185.126.29
+AS396507,Emerald Onion,tor,23.129.64.192
+AS215125,Church of Cyberology,tor,192.42.116.145
+AS211619,MAXKO d.o.o.,tor,45.9.168.117
+AS36352,HostPapa,tor,96.44.154.224
+AS200651,FlokiNET ehf,tor,37.228.129.128
+AS61125,SABOTAGE LLC,tor,45.66.35.62
+AS27284,Fourplex Telecom LLC,tor,147.90.234.34
+AS197540,netcup GmbH,tor,185.244.192.184
+AS211507,Julian Achter,tor,185.132.53.46
+AS60404,Liteserver,tor,5.2.67.226
+AS198093,Foreningen for digitala fri- och rattigheter,tor,171.25.193.78
+AS214503,QuxLabs AB,tor,45.84.107.182
+AS400226,StormyCloud Inc,tor,23.128.248.160
+AS205100,F3 Netze e.V.,tor,185.220.100.241
+AS208323,Foundation for Applied Privacy,tor,109.70.100.7
+AS16276,OVH SAS,tor,51.91.18.151
+AS56655,Gigahost AS,tor,193.200.229.243
+AS58087,Florian Kolb,tor,37.114.50.18
+AS20473,"The Constant Company, LLC",tor,149.28.232.89
+AS63949,Akamai Connected Cloud,tor,172.105.20.12
+AS41281,KeFF Networks Ltd,tor,193.189.100.201
+AS3320,Deutsche Telekom AG,vpn,79.255.161.44
+AS4837,CHINA UNICOM China169 Backbone,vpn,36.249.178.39
+AS4134,CHINANET BACKBONE,vpn,183.66.12.149
+AS4713,"NTT DOCOMO BUSINESS,Inc.",vpn,153.232.77.82
+AS3209,Vodafone GmbH,vpn,46.223.224.242
+AS7922,"Comcast Cable Communications, LLC",vpn,50.234.20.12
+AS3462,Data Communication Business Group,vpn,1.165.36.182
+AS6805,Telefonica Germany GmbH & Co.OHG,vpn,95.114.185.18
+AS8881,1&1 Versatel GmbH,vpn,109.250.95.81
+AS212238,Datacamp Limited,vpn,173.239.226.238
+AS14061,"DigitalOcean, LLC",vpn,206.189.60.24
+AS2514,"NTT PC Communications, Inc.",vpn,128.53.233.156
+AS4766,Korea Telecom,vpn,59.9.57.199
+AS2527,Sony Network Communications Inc.,vpn,118.238.56.19
+AS1221,Telstra Limited,vpn,138.217.41.18
+AS17676,SoftBank Corp.,vpn,126.59.52.137
+AS9009,M247 Europe SRL,vpn,91.132.139.116
+AS12389,PJSC Rostelecom,vpn,79.105.85.177
+AS2519,ARTERIA Networks Corporation,vpn,202.189.210.225
+AS16509,"Amazon.com, Inc.",vpn,99.80.248.146
+AS4685,Asahi Net,vpn,14.3.234.145
+AS9145,EWE TEL GmbH,vpn,92.252.115.16
+AS2518,BIGLOBE Inc.,vpn,119.239.59.149
+AS7018,"AT&T Enterprises, LLC",vpn,12.78.185.242
+AS3269,Telecom Italia S.p.A.,vpn,87.0.191.223
+AS16509,"Amazon.com, Inc.",webserver,54.192.11.59
+AS16625,"Akamai Technologies, Inc.",webserver,184.50.155.133
+AS14618,"Amazon.com, Inc.",webserver,54.89.1.235
+AS396982,Google LLC,webserver,34.120.12.212
+AS8075,Microsoft Corporation,webserver,52.225.20.28
+AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",webserver,112.124.186.51
+AS14061,"DigitalOcean, LLC",webserver,168.144.119.110
+AS16276,OVH SAS,webserver,148.113.189.209
+AS47583,Hostinger International Limited,webserver,82.29.58.136
+AS13335,"Cloudflare, Inc.",webserver,104.24.30.208
+AS4766,Korea Telecom,webserver,211.42.153.15
+AS45090,Shenzhen Tencent Computer Systems Company Limited,webserver,132.232.12.88
+AS31898,Oracle Corporation,webserver,193.122.140.212
+AS24940,Hetzner Online GmbH,webserver,5.9.182.151
+AS45102,"Alibaba (US) Technology Co., Ltd.",webserver,47.86.33.40
+AS174,"Cogent Communications, LLC",webserver,38.63.48.66
+AS132839,POWER LINE DATACENTER,webserver,160.124.130.202
+AS3462,Data Communication Business Group,webserver,220.134.253.115
+AS3320,Deutsche Telekom AG,webserver,87.162.159.123
+AS20473,"The Constant Company, LLC",webserver,149.28.189.134
+AS20940,Akamai International B.V.,webserver,23.215.55.59
+AS63949,Akamai Connected Cloud,webserver,172.105.240.89
+AS8560,IONOS SE,webserver,74.208.215.146
+AS36352,HostPapa,webserver,192.3.217.216
+AS54600,PEG TECH INC,webserver,38.14.158.109
